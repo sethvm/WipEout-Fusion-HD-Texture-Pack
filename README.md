@@ -1,12 +1,1 @@
-# WipEout-Fusion-HD-Texture-Pack
-A texture pack for WipEout Pure, for use with PCSX2.
-
-An experimental, unnofficial F9000 Anti-Gravity Racing League High-Resolution Textures project for WipEout Fusion.
-
-For use with PCSX2.
-
-Official PCSX2 website: https://pcsx2.net/
-
-
-Description
-
+![WipEout Fusion - Homepage](https://user-images.githubusercontent.com/62298614/111378551-424b7f00-86a2-11eb-9382-f3e86cb8fb5a.png)
