@@ -1,0 +1,1286 @@
+[Notes]
+WipEout Fusion | SCES-50005, SLUS-20462
+High-Definition Texture Pack
+Homepage: https://github.com/NR74W/WipEout-Fusion-HD-Texture-Pack
+
+©2001 Studio Liverpool :: F9000 Racing League
+
+[Comments]
+######################################################################
+# Note: This file is not used by PCSX2, it is for documentation only.
+#
+# Only compatible with PCSX2 v1.7.2389 and later.
+######################################################################
+
+ # Fonts > Main Menu
+1ee4aea36372cff-22336aecd02aec26-00005dd3 = Fonts/Main Menu/Fusion S06.png
+4dffbd5f3ccffa4b-9157a455224e6d26-00006213 = Fonts/Main Menu/Fusion S09.png
+1c97cd19bf230983-c62abf683a3b1076-00006213 = Fonts/Main Menu/Fusion S20.png
+
+ # Fonts > In Game
+3ec9c68c4af4d62e-5fa451c4ea712ce8-00005dd3 = Fonts/In Game/Fusion S07.png
+c672824f5de1040-7e144c0657f98dd5-00005593 = Fonts/In Game/Fusion S12.png
+bce88039c4b00f77-abdab6201eaed20e-00005593 = Fonts/In Game/Fusion S14.png
+d6b1d5b938fdbef4-257e8afc46970a2f-000059d3 = Fonts/In Game/Fusion S30.png
+
+
+
+ # In Game > Billboards > Florion Height (USA)
+2d71ba382bda180a-3ae3525d8fc7ede8-000019d3 = In Game/Billboards/1 - Florion Height/Auricom Research Industries 1.png
+131c20198c2c0219-2e54ce5732bf30ef-00001993 = In Game/Billboards/1 - Florion Height/Auricom Research Industries 2.png
+fe555d556c4e64a3-7de2179425bdd187-00001993 = In Game/Billboards/1 - Florion Height/Auricom Research Industries 3.png
+17ed6239db8c3c81-6b9175385d12e490-000019d3 = In Game/Billboards/1 - Florion Height/EG-R Technologies 1.png
+1fad37fad6bc5b15-cf1b5ce24ffabcae-00001993 = In Game/Billboards/1 - Florion Height/EG-R Technologies 2.png
+2fe0440cddc9eac4-7aa4cd5a170ebd21-000019d3 = In Game/Billboards/1 - Florion Height/FEISAR 1.png
+2db7249a82a8a42d-f1ee332c330c6857-00001993 = In Game/Billboards/1 - Florion Height/FEISAR 2.png
+7db3a49566847505-b9b430f4dddc600-00001993 = In Game/Billboards/1 - Florion Height/FEISAR 3.png
+dc7505be91d54767-125dd62a679f9eaf-000019d3 = In Game/Billboards/1 - Florion Height/G-Tech Systems 1.png
+4bd4bb69eef2562e-e34f6e121249f78b-000019d3 = In Game/Billboards/1 - Florion Height/G-Tech Systems 2.png
+c2513bf06413b43-c75de11d0e72f34a-00001993 = In Game/Billboards/1 - Florion Height/G-Tech Systems 3.png
+1ecaac7132080b14-640336bc0956bc6-000019d3 = In Game/Billboards/1 - Florion Height/Good Technology.png
+11a67588fa41179c-8f83a406f85278f1-000019d3 = In Game/Billboards/1 - Florion Height/Kappa 1.png
+11a67588fa41179c-8f83a406f85278f1-000059d3 = In Game/Billboards/1 - Florion Height/Kappa 1.png
+68d678a3af8559df-5fbfc95e4695b6c5-000019d3 = In Game/Billboards/1 - Florion Height/Kappa 2.png
+823762d46eaec13f-5a28ec9e8e2f043a-000019d3 = In Game/Billboards/1 - Florion Height/Kappa 3.png
+fb10ebb9d9d3806-3825cb6f17664d53-000019d3 = In Game/Billboards/1 - Florion Height/Label 1.png
+6ac3a0563bd23b68-2d7780c5a027270d-000019d3 = In Game/Billboards/1 - Florion Height/Label 2.png
+e0b2980971017c7a-ad10ba3ac5dd9c55-000019d3 = In Game/Billboards/1 - Florion Height/Label 3.png
+5448056fdcda291a-19f7a25ed0d7c625-000019d3 = In Game/Billboards/1 - Florion Height/Piranha Advancements 1.png
+ce7a7c943d08352d-a7535ce426c39632-00001993 = In Game/Billboards/1 - Florion Height/Piranha Advancements 2.png
+517304306093996a-a97dc24d5e25c0b-000019d3 = In Game/Billboards/1 - Florion Height/Tigron Enterprises 1.png
+20aa37fac7b1fcfa-9f273dd1c447b791-00001993 = In Game/Billboards/1 - Florion Height/Tigron Enterprises 2.png
+469a67c16faa0478-5c9ae214298d8d57-000059d3 = In Game/Billboards/1 - Florion Height/Van-Uber Racing Development 1.png
+a4b4c544034ec93a-6364471edc81ca8e-000019d3 = In Game/Billboards/1 - Florion Height/Van-Uber Racing Development 2.png
+55990f992709c5bb-e94052b64340a93e-00001993 = In Game/Billboards/1 - Florion Height/Van-Uber Racing Development 3.png
+ce399785337c881d-9c7deda5c4006603-00001993 = In Game/Billboards/1 - Florion Height/Xios International.png
+
+ # In Game > Billboards > Mandrashee (China Sea)
+f685eb4170b3e412-2303e1e2c2c28790-00001993 = In Game/Billboards/2 - Mandrashee/Auricom Research Industries.png
+f3abd81a996b41b5-65e16f967d94d755-000019d3 = In Game/Billboards/2 - Mandrashee/EG-R Technologies.png
+a964b3b8432bfda6-fe0a90104aa78095-00001993 = In Game/Billboards/2 - Mandrashee/FEISAR.png
+a964b3b8432bfda6-fe0a90104aa78095-00005993 = In Game/Billboards/2 - Mandrashee/FEISAR.png
+ca6f7670ef2ea934-6cb28fb1fb3c8d81-000019d3 = In Game/Billboards/2 - Mandrashee/G-Tech Systems.png
+ac846eacfd325cd1-924668226b4f7ad-000019d3 = In Game/Billboards/2 - Mandrashee/Kappa.png
+ac846eacfd325cd1-924668226b4f7ad-000059d3 = In Game/Billboards/2 - Mandrashee/Kappa.png
+7bad5402117bf97-fefe60fcad97b8de-000019d3 = In Game/Billboards/2 - Mandrashee/Piranha Advancements.png
+d643c6fd5996f59f-81d5081d0f957e5c-000019d3 = In Game/Billboards/2 - Mandrashee/Tigron Enterprises.png
+d643c6fd5996f59f-81d5081d0f957e5c-000059d3 = In Game/Billboards/2 - Mandrashee/Tigron Enterprises.png
+87fa3916efb3f836-dfb431270dad2028-00001993 = In Game/Billboards/2 - Mandrashee/Van-Uber Racing Development.png
+bf482513456b253b-c615f25e0f3f122a-000019d3 = In Game/Billboards/2 - Mandrashee/WipEout Fusion.png
+b19dc3748a9379bb-fc723a17308955f9-000019d3 = In Game/Billboards/2 - Mandrashee/Xios International.png
+
+ # In Game > Billboards > Cubiss Float (Switzerland)
+4a9881d8a4cc4461-98f2a8b7de9958e8-000019d3 = In Game/Billboards/3 - Cubiss Float/Auricom Research Industries 1.png
+5eb1d573f08f3535-9190d875bf60aa5b-000019d3 = In Game/Billboards/3 - Cubiss Float/Auricom Research Industries 2.png
+7384fc9e969932f3-72971e31fadcbd1b-000019d3 = In Game/Billboards/3 - Cubiss Float/FEISAR 1.png
+29c37855557a8106-6ff85d0d38f69955-00001993 = In Game/Billboards/3 - Cubiss Float/FEISAR 2.png
+3ab8c955a5ab902e-84aafc6dbd882e9-000019d3 = In Game/Billboards/3 - Cubiss Float/G-Tech Systems 1.png
+8f539bb89976d50a-52db99ad71ba69e-00001993 = In Game/Billboards/3 - Cubiss Float/G-Tech Systems 2.png
+d3510a6abb88b5df-af712366e57aa988-000019d3 = In Game/Billboards/3 - Cubiss Float/Label.png
+7c20d36e9d4bc71c-91bc8f0dd909b3cb-000019d3 = In Game/Billboards/3 - Cubiss Float/Piranha Advancements 1.png
+8a7c57ca5a1f8bb4-8cb3d50f286bd16f-00001993 = In Game/Billboards/3 - Cubiss Float/Piranha Advancements 2.png
+a7e8253f367f1b-545b5a797a05401b-00001993 = In Game/Billboards/3 - Cubiss Float/Piranha Advancements 3.png
+f16daa3678222812-4c8eebb8577a34a9-000019d3 = In Game/Billboards/3 - Cubiss Float/Tigron Enterprises 1.png
+4ad3aa3867b726d2-f60af43263ceeb6e-00001993 = In Game/Billboards/3 - Cubiss Float/Tigron Enterprises 2.png
+4822aeeca1cc9475-110754fbe0f37fd6-00001993 = In Game/Billboards/3 - Cubiss Float/Tigron Enterprises 3.png
+b7010ad9e312d187-3481c01afe20ec3-000019d3 = In Game/Billboards/3 - Cubiss Float/Van-Uber Racing Development 1.png
+265d602fe9d5aae3-ddc85020a14cafcd-000019d3 = In Game/Billboards/3 - Cubiss Float/Van-Uber Racing Development 2.png
+edf34f1d58234204-8b49ecc77c0330b4-00001993 = In Game/Billboards/3 - Cubiss Float/Van-Uber Racing Development 3.png
+a6dc8fdd526421e-904569869c1b8e33-00001993 = In Game/Billboards/3 - Cubiss Float/Xios International 1.png
+805128bf11cf979e-982eed6630d0b78f-00001993 = In Game/Billboards/3 - Cubiss Float/Xios International 2.png
+
+ # In Game > Billboards > Alca Vexus (Mexico)
+65d80632440523f8-760d25090466ffee-000019d3 = In Game/Billboards/4 - Alca Vexus/Auricom Research Industries.png
+915925016fdf57b1-27d3334fd9c6e29b-000019d3 = In Game/Billboards/4 - Alca Vexus/FEISAR.png
+75536f9c95f9047c-7befa75b81a4c2d6-000019d3 = In Game/Billboards/4 - Alca Vexus/G-Tech Systems 1.png
+3ca6ad0ce6992794-6aecef5e7fc6506-00001993 = In Game/Billboards/4 - Alca Vexus/G-Tech Systems 2.png
+46385af97177226c-b5f7a27cadc8f7e6-000019d3 = In Game/Billboards/4 - Alca Vexus/Piranha Advancements 1.png
+9c0dc6ef1c853a2a-d53922ac938167a2-00001993 = In Game/Billboards/4 - Alca Vexus/Piranha Advancements 2.png
+8f97799f327bee78-f521af905c392a03-000019d3 = In Game/Billboards/4 - Alca Vexus/Tigron Enterprises 1.png
+ad6a390979194d9b-522709c4b2b55069-00001993 = In Game/Billboards/4 - Alca Vexus/Tigron Enterprises 2.png
+a6faa099b746e069-a5b15e853faec5fc-000019d3 = In Game/Billboards/4 - Alca Vexus/Van-Uber Racing Development 1.png
+226b739f83e9137a-f29a5fcc4ed624b5-00001993 = In Game/Billboards/4 - Alca Vexus/Van-Uber Racing Development 2.png
+62abe9ac1dd2d166-f34f42156f8245cb-00001dd3 = In Game/Billboards/4 - Alca Vexus/WipEout Fusion.png
+8a1679ae37c4cde6-c0f1ff659c4d6965-000019d3 = In Game/Billboards/4 - Alca Vexus/Xios International 1.png
+98e14c4d097ee3d-264bb19688370a25-00001993 = In Game/Billboards/4 - Alca Vexus/Xios International 2.png
+
+ # In Game > Billboards > Vohl Square (USSR)
+b56fe99ab0528b6b-13c9deae74a1a19e-00001993 = In Game/Billboards/5 - Vohl Square/Auricom Research Industries.png
+1deb5fbc471ec44a-e8cdc0eecb89d682-000019d3 = In Game/Billboards/5 - Vohl Square/EG-R Technologies.png
+6f895b0ce854f46f-129f435482c1f78f-000019d3 = In Game/Billboards/5 - Vohl Square/FEISAR 1.png
+dda942fc8860cb58-25d55931651a94da-00001993 = In Game/Billboards/5 - Vohl Square/FEISAR 2.png
+ec2011d4444ca1b5-2f5074d5605048a4-00001993 = In Game/Billboards/5 - Vohl Square/G-Tech Systems.png
+350cd0204edbe142-7587ea0f36d40614-000019d3 = In Game/Billboards/5 - Vohl Square/Good Technology.png
+3c924f502a8939c0-6f9cdf0a14087676-000059d3 = In Game/Billboards/5 - Vohl Square/Kappa.png
+f565d8fd11209315-be9dd5fa648b09c8-000019d3 = In Game/Billboards/5 - Vohl Square/Label.png
+a764d07c868046f0-5480f0019a51a7bb-000019d3 = In Game/Billboards/5 - Vohl Square/Piranha Advancements.png
+9fd530f00ac0d573-21965a8adfbc6865-000019d3 = In Game/Billboards/5 - Vohl Square/Tigron Enterprises 1.png
+7b5ba9dd79d5afb8-92112dce9b0120a3-00001993 = In Game/Billboards/5 - Vohl Square/Tigron Enterprises 2.png
+9121cf4c927ae43a-ed8d75d38df1fcf5-00001993 = In Game/Billboards/5 - Vohl Square/Tigron Enterprises 3.png
+9121cf4c927ae43a-ed8d75d38df1fcf5-00005993 = In Game/Billboards/5 - Vohl Square/Tigron Enterprises 3.png
+7435e7da2baebebd-25e56c44ae52cb40-000019d3 = In Game/Billboards/5 - Vohl Square/Van-Uber Racing Development 1.png
+753ea051c18d483e-ef8b1fbb26a08423-00001993 = In Game/Billboards/5 - Vohl Square/Van-Uber Racing Development 2.png
+f306bb0b67887864-148b135310e26b9c-000059d3 = In Game/Billboards/5 - Vohl Square/WipEout Fusion.png
+d136fade0a13cd1c-6a52dc5c85a4c05f-00001993 = In Game/Billboards/5 - Vohl Square/Xios International.png
+
+ # In Game > Billboards > Temtesh Bay (Australia)
+1a154591fad26016-816d1b314cda3696-00001dd3 = In Game/Billboards/6 - Temtesh Bay/WipEout Fusion.png
+
+ # In Game > Billboards > Katmoda 12 (Moon)
+56ab0dba3df890aa-d9a5f33304d9fd15-000019d3 = In Game/Billboards/7 - Katmoda 12/Auricom Research Industries 1.png
+1d9d83e42024fe7d-ca6c65b216f1904-00001993 = In Game/Billboards/7 - Katmoda 12/Auricom Research Industries 2.png
+887326f040c29b62-143b11321838fb6e-000019d3 = In Game/Billboards/7 - Katmoda 12/FEISAR.png
+601c696ec004136f-3f9fa8e62753658-000019d3 = In Game/Billboards/7 - Katmoda 12/G-Tech Systems.png
+d8b40d6f8e0e6d51-a4fa3c4627e505f9-000019d3 = In Game/Billboards/7 - Katmoda 12/Kappa.png
+57a70733b8eadeaa-35f1556d2a6b37e-000019d3 = In Game/Billboards/7 - Katmoda 12/Piranha Advancements.png
+8b4243528f5324c3-d8d1e6e97e9f47bc-000019d3 = In Game/Billboards/7 - Katmoda 12/Xios International 1.png
+9af3b118e7787ec2-4637eb6a628b799f-00001993 = In Game/Billboards/7 - Katmoda 12/Xios International 2.png
+
+ # In Game > Billboards > Devilia (Novon)
+6396a2f8a83d75d-7d1c036c7dc2a579-00001993 = In Game/Billboards/8 - Devilia/Tigron Enterprises.png
+ee82384a220abee3-c9b285ba3a1c7e58-000019d3 = In Game/Billboards/8 - Devilia/Xios International.png
+
+
+ # In Game > Tracks > All
+8b19339a4670019d-29b5cc7c74d778c4-00005993 = In Game/Tracks/0 - Shared/Arrow.png
+fbb08c46f8263254-ac53b55eafc823b5-000059d3 = In Game/Tracks/0 - Shared/Grenades.png
+6d82264563b8f40d-8bf53757d0ad4128-00005993 = In Game/Tracks/0 - Shared/Noise.png
+
+ # In Game > Tracks > All > Crowd
+df1b6230e13dfd04-fbb89bf8fab49656-00001993 = In Game/Tracks/0 - Shared/Crowd/Background.png
+8ba49f8cf40ffc-3b97932be2621869-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 1.png
+782fdeef6a7a0ce-8a19271d90d3ff3c-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 2.png
+9dd32841c442c483-e3c05b72d1f2ae90-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 3.png
+4d4ede67d7e2f5d3-85430b643e961afa-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 4.png
+b971c21c3e054c8-bd25a7366f3fe524-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 5.png
+a04001835d13b4c7-2a628c0c138a249-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 6.png
+489965f760989666-415e3e8ded36f935-00005993 = In Game/Tracks/0 - Shared/Crowd/Crowd 7.png
+
+ # In Game > Tracks > All > Effects
+a277d3ed9cb50513-40bd50caf9d68f67-00005993 = In Game/Tracks/0 - Shared/Effects/Collision Spark.png
+203a7a228c31aad7-cae331c4b242d1ca-00005dd3 = In Game/Tracks/0 - Shared/Effects/Explosion.png
+e4ef79be64a37b62-b88c9dc0c7f9d76b-00005dd3 = In Game/Tracks/0 - Shared/Effects/Lens Flare.png
+80e2efb6b1f1dd49-cfef3294570a58b6-00005993 = In Game/Tracks/0 - Shared/Effects/Light Flare.png
+2a593285b050e37b-cd3274eaac73c56-00005993 = In Game/Tracks/0 - Shared/Effects/Ship Flare.png
+a60c38e66c932e27-5507cfce5916f288-00005993 = In Game/Tracks/0 - Shared/Effects/Ship Trail.png
+e6c2cef15c0ee24c-8a1f20fa6d84bcf5-00005993 = In Game/Tracks/0 - Shared/Effects/Smoke.png
+
+ # In Game > Tracks > All > Pads
+9ce771d1676d8caf-10685fc6781d0b12-00005dd3 = In Game/Tracks/0 - Shared/Pads/Flip Pad.png
+9c431a6fbdcfabba-f76e4238f60d5cad-00005dd3 = In Game/Tracks/0 - Shared/Pads/Speed-Up Pad.png
+fb25d1ac96796b6f-829e31eeb52db07e-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+fb25d1ac96796b6f-55caf2b41b44eb83-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+fb25d1ac96796b6f-b7d3f178aad0ce84-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+fb25d1ac96796b6f-8aa6d32885415be1-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+fb25d1ac96796b6f-fdc619b09e2f2e84-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+# The 2 textures below are from the European version.
+fb25d1ac96796b6f-e51d271364e97c2b-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+fb25d1ac96796b6f-d9715318cf275b7c-00005dd3 = In Game/Tracks/0 - Shared/Pads/Trigger Pad.png
+2a9427b8758b2982-f76e4238f60d5cad-00005dd3 = In Game/Tracks/0 - Shared/Pads/Weapon Grid.png
+b231463d3f76d193-dfbfa3cb47439fc8-00005dd3 = In Game/Tracks/0 - Shared/Pads/Blur/Flip Pad.png
+8e16421b6f485a9b-94447dec7ea8957c-00005dd3 = In Game/Tracks/0 - Shared/Pads/Blur/Speed-Up Pad.png
+f073ebf6c358dcd9-5c134b284a8ef27e-00005dd3 = In Game/Tracks/0 - Shared/Pads/Blur/Trigger Pad.png
+acb35adc7b2beffd-d95863d095fa5616-00005dd3 = In Game/Tracks/0 - Shared/Pads/Blur/Weapon Grid.png
+
+ # In Game > Tracks > All > Rescue Craft
+e9521b8b212f577c-459ad8a977de5e37-00005dd3 = In Game/Tracks/0 - Shared/Rescue Craft/Texture 1.png
+13924435d4849613-b2de481919cbaea8-00005dd3 = In Game/Tracks/0 - Shared/Rescue Craft/Texture 2.png
+c734183c8566f3d9-13b3ccca5b3a2706-00005dd3 = In Game/Tracks/0 - Shared/Rescue Craft/Texture 3.png
+
+ # In Game > Tracks > All > Startline
+f50ab5549cebeb0e-1b5e9b5d155d470a-000059d3 = In Game/Tracks/0 - Shared/Startline/1 - Hold.png
+cf6b48602e107603-52e897470a488841-000059d3 = In Game/Tracks/0 - Shared/Startline/2 - Ready.png
+cb6b13254967d4ac-6140d98141bd46ec-000059d3 = In Game/Tracks/0 - Shared/Startline/3 - Go.png
+c929365909e09963-f80116d59e4965e2-000059d3 = In Game/Tracks/0 - Shared/Startline/4 - Final Lap.png
+1a9eefe6b88ce27d-7f73e9328d239bc-000059d3 = In Game/Tracks/0 - Shared/Startline/5 - Race Finish.png
+ae8a7baf306b6e5b-c434f23e810a27c1-00001553 = In Game/Tracks/0 - Shared/Startline/Pit Lane Arrow.png
+ae8a7baf306b6e5b-c434f23e810a27c1-00005553 = In Game/Tracks/0 - Shared/Startline/Pit Lane Arrow.png
+720f40405b7d8b85-b2b0c8fd9964e9ee-00005553 = In Game/Tracks/0 - Shared/Startline/Pit Lane Arrow.png
+1022199f17b8b3b4-a89dcce5be5290bf-00001553 = In Game/Tracks/0 - Shared/Startline/Pit Lane Line 1.png
+1022199f17b8b3b4-a89dcce5be5290bf-00005553 = In Game/Tracks/0 - Shared/Startline/Pit Lane Line 1.png
+be72e937a251e492-be2638f010848bd1-00001553 = In Game/Tracks/0 - Shared/Startline/Pit Lane Line 2.png
+
+ # In Game > Tracks > Florion Height (USA)
+8ea4b9b510354c54-46f02e586c142391-00002213 = In Game/Tracks/1 - Florion Height/Skybox A.png
+ba6ce695b0106081-f9091b932cf3c956-00002213 = In Game/Tracks/1 - Florion Height/Skybox B.png
+49ac2fd892b64835-ac37c148c830f5b6-00002213 = In Game/Tracks/1 - Florion Height/Skybox C.png
+c89bbb1046f311d5-b7e84a492a4ff8b7-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 001.png
+db9ccfedb42ea24-d5b1885c3e427341-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 002.png
+47846320455ba96-6f89a81d7da7c9eb-00001993 = In Game/Tracks/1 - Florion Height/Texture 003.png
+142e8bb043297ab7-80213499b31a9bf3-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 004.png
+ade4ecda0e19c21d-117e07c46f3b113d-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 005.png
+d727a43abe64c272-f5d89bed9152609e-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 006.png
+2b5185b7b4ee7d63-c005c7adb9f5a784-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 007.png
+127a8edf0e2802c8-c815f8adb51d813a-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 008.png
+ec36bd2ae4f17b8e-e91e86e09e9e4afa-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 009.png
+135821cbd15a614f-4e9f3df8791d3e5f-000019d3 = In Game/Tracks/1 - Florion Height/Texture 010.png
+ec03149ecc494f12-96166d67d480fd05-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 011.png
+e1ee4ed0f74f8632-d90e3042080a200e-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 012.png
+c26a74dddc79049f-f535b07fd448d677-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 013.png
+1db9c2ed790c4803-332fb952af6de170-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 014.png
+794f814f0c7d42fd-5dd2c9f890168d59-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 015.png
+38a96584b35da13f-e9041276e8228351-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 016.png
+1381afad24f618d9-16808c8a718a132e-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 017.png
+bc58efa9d3629604-60d6648c79d3776f-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 018.png
+cdbba5f703995396-a0d05f701b072624-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 019.png
+ae34524045f277b7-d78800d820b4e040-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 020.png
+761bf9249b82477a-32cb2dc41e9cd6b0-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 021.png
+99bedf64fd3116eb-c487eadc9e2c80e9-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 022.png
+9858349a6de54596-4d488dddfe1eecc6-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 023.png
+e5d5277f926d9570-2445dcd851e492ca-00001993 = In Game/Tracks/1 - Florion Height/Texture 024.png
+e36cda9bed26defc-2cf6de97e8ce9c4e-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 025.png
+2e022def633a639c-d79aee376e97b6ee-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 026.png
+2af992fa15afbc35-8a26fb48c33bba17-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 027.png
+bad55642a9f9c5d7-b76805f3e01bfdf-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 028.png
+57a8b42d6514ec1-b90bbb927bfb8171-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 029.png
+b8bbf5d774f908a6-c1a4c820a413df79-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 030.png
+fd6dc002abd11ad5-7f16014fc4f5896d-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 031.png
+d2ad9aeabbc5c422-55cdfc782e878b90-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 032.png
+ffe71f38dc49eba4-c1b7959ee889f509-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 033.png
+c64f4e20316c5015-3e2ed003d4be5e77-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 034.png
+aa598514052da93b-920a279da4c834ee-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 035.png
+b6438775bc287b00-2c9f4d483aa7ec30-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 036.png
+5cd9a0f082b3a7ed-2c6f3b57b53d4576-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 037.png
+19ca516aa4671d31-af6944ff51339409-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 038.png
+4f9d2328061c2b3c-6c0e7d30ed379dab-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 039.png
+ffecc3edf8f225ac-1a679684018602c0-00001dd3 = In Game/Tracks/1 - Florion Height/Texture 040.png
+31df90aa6931e61f-ea99daffa09a8e78-00001993 = In Game/Tracks/1 - Florion Height/Texture 041.png
+7145cf53cae7ddb9-3ec51234be74cab5-00001993 = In Game/Tracks/1 - Florion Height/Texture 042.png
+7a9e9859dc84f6bb-ee7cfb880d586729-00001993 = In Game/Tracks/1 - Florion Height/Texture 043.png
+f6abe854c1c35d8a-e2f50b4b6862d426-00001993 = In Game/Tracks/1 - Florion Height/Texture 044.png
+824c958f5a7f6de5-3526ac0e90bbf56d-00001993 = In Game/Tracks/1 - Florion Height/Texture 045.png
+f81474059c917235-cf57c32044f48848-00001993 = In Game/Tracks/1 - Florion Height/Texture 046.png
+278453766e7565a8-3ae79c4f823416f8-00001993 = In Game/Tracks/1 - Florion Height/Texture 047.png
+b219d8da9efa1a49-a931d6c7b220b58f-00001993 = In Game/Tracks/1 - Florion Height/Texture 048.png
+a1d6761dbad0f6a0-73f10ecf079f1cf4-00001993 = In Game/Tracks/1 - Florion Height/Texture 049.png
+9e9deca6327cb2be-223cefbb1c98bf1-00001993 = In Game/Tracks/1 - Florion Height/Texture 050.png
+7e5aeb8e85cf085f-5ba8d2f4a4d6fba1-00001993 = In Game/Tracks/1 - Florion Height/Texture 051.png
+94304c16f11b11bf-28c17421ed3fb44d-00001993 = In Game/Tracks/1 - Florion Height/Texture 052.png
+454628bc0ea57b4b-5cda8373bb0674ba-00001993 = In Game/Tracks/1 - Florion Height/Texture 053.png
+300ddd6319be7b66-56a0ed913665f674-00001993 = In Game/Tracks/1 - Florion Height/Texture 054.png
+37c7a9647d1fb0e3-438276b6da94620b-00001993 = In Game/Tracks/1 - Florion Height/Texture 055.png
+7a9c424cea1fd5-143dca13c9d8f2ed-00001993 = In Game/Tracks/1 - Florion Height/Texture 056.png
+2f5a2f36c5cf5278-3147a6695fabe084-00001993 = In Game/Tracks/1 - Florion Height/Texture 057.png
+35b41cdf2aa16648-51c72e633335fe19-00001993 = In Game/Tracks/1 - Florion Height/Texture 058.png
+879eef239f9cecfb-243ba07755b57d83-00001993 = In Game/Tracks/1 - Florion Height/Texture 059.png
+d0555140954f4845-95ed6797bb93dfae-00001993 = In Game/Tracks/1 - Florion Height/Texture 060.png
+7f7297c22dacc2e4-98dde4e7885e0a16-00001993 = In Game/Tracks/1 - Florion Height/Texture 061.png
+2737f28ef4fe0d17-3bc2dd55c452ff83-00001993 = In Game/Tracks/1 - Florion Height/Texture 062.png
+b711ca1051435d01-189ba4a9b83762b7-00001993 = In Game/Tracks/1 - Florion Height/Texture 063.png
+bb4a006298c1bcc0-525605b1c321a7b6-00001993 = In Game/Tracks/1 - Florion Height/Texture 064.png
+b65d19c65bbec80e-1a4d07786688c5b3-00001993 = In Game/Tracks/1 - Florion Height/Texture 065.png
+4d0b2ead0e5be48c-12f665690651d76f-00001993 = In Game/Tracks/1 - Florion Height/Texture 066.png
+98f6b1ed3da827ea-a9a56590138942d8-00001993 = In Game/Tracks/1 - Florion Height/Texture 067.png
+c2f72bc681648a61-1b4715e1edbbd392-00001993 = In Game/Tracks/1 - Florion Height/Texture 068.png
+e25c3624faf56662-2950bc31e3be964b-00001993 = In Game/Tracks/1 - Florion Height/Texture 069.png
+9848bb642b9eab26-df1e0cda3158382d-00001993 = In Game/Tracks/1 - Florion Height/Texture 070.png
+6db270b843149b27-a8421d9927f3a4c6-00001993 = In Game/Tracks/1 - Florion Height/Texture 071.png
+c02c0d3786abc078-cc67f9e260fc0bfc-00001993 = In Game/Tracks/1 - Florion Height/Texture 072.png
+c9bbeb61333df1d5-620ed77d0356aa78-00001993 = In Game/Tracks/1 - Florion Height/Texture 073.png
+8c204e87b8f20cb4-b4d9dee814e787ae-00001993 = In Game/Tracks/1 - Florion Height/Texture 074.png
+286d6cd139998b4e-9a7ac0fe4c7e2c98-00001993 = In Game/Tracks/1 - Florion Height/Texture 075.png
+5d6613ebaf1071b-30c47e814ba4c1af-00001993 = In Game/Tracks/1 - Florion Height/Texture 076.png
+43bfa716f5746432-c3adaace275e18d6-00001993 = In Game/Tracks/1 - Florion Height/Texture 077.png
+74a294fdf8cf0afa-1ee65bfbe37fd150-00001993 = In Game/Tracks/1 - Florion Height/Texture 078.png
+92a20646884838dc-3109257391a2fa55-00001993 = In Game/Tracks/1 - Florion Height/Texture 079.png
+1499511895178f87-46ea0dd67c594b52-00001993 = In Game/Tracks/1 - Florion Height/Texture 080.png
+7ac33204ad29b2ac-65bb6f0fe3b9e493-00001993 = In Game/Tracks/1 - Florion Height/Texture 081.png
+4f6576af365ca8a8-d11e21c9af3ffc2d-00001993 = In Game/Tracks/1 - Florion Height/Texture 082.png
+f8b1b0e0836a4c13-47c006d7ac8cbcc7-00001993 = In Game/Tracks/1 - Florion Height/Texture 083.png
+ca78a087511e9d3c-66466163eceaab76-00001993 = In Game/Tracks/1 - Florion Height/Texture 084.png
+ca78a087511e9d3c-66466163eceaab76-00005993 = In Game/Tracks/1 - Florion Height/Texture 084.png
+b24577b52f4ff5a2-550360ffd49a9f0e-00001993 = In Game/Tracks/1 - Florion Height/Texture 085.png
+b24577b52f4ff5a2-550360ffd49a9f0e-00005993 = In Game/Tracks/1 - Florion Height/Texture 085.png
+e68290c06777bc23-da1553c1edec0fae-00001993 = In Game/Tracks/1 - Florion Height/Texture 086.png
+8cc0cca127f88c3d-d41a44275242ea12-00001993 = In Game/Tracks/1 - Florion Height/Texture 087.png
+843b76f2039d0c9b-d3634cc2a715f87b-00001993 = In Game/Tracks/1 - Florion Height/Texture 088.png
+21f2c7ddecac566c-3206640688cf105e-00001993 = In Game/Tracks/1 - Florion Height/Texture 089.png
+72d0a08c1f8a9549-8a95e938e175f9ef-00001993 = In Game/Tracks/1 - Florion Height/Texture 090.png
+cba53f6701bd645e-e6b8eed2d7c6a9de-00001993 = In Game/Tracks/1 - Florion Height/Texture 091.png
+6956816d129eed92-43dc9debe3d17a00-00001993 = In Game/Tracks/1 - Florion Height/Texture 092.png
+51d9718172fdbd06-5117af80b18b07f7-00001993 = In Game/Tracks/1 - Florion Height/Texture 093.png
+3b7631ffaf96daee-56edbee3ea5bf818-00005993 = In Game/Tracks/1 - Florion Height/Texture 094.png
+6895f6e0c4670f19-9e92f67993980be3-00001993 = In Game/Tracks/1 - Florion Height/Texture 095.png
+6895f6e0c4670f19-9e92f67993980be3-00005993 = In Game/Tracks/1 - Florion Height/Texture 095.png
+4e19020a3b0f79f4-64a4a3157f27ee3f-00001993 = In Game/Tracks/1 - Florion Height/Texture 096.png
+3bfe534e784bea9c-1e47d3bf4effbee7-00001993 = In Game/Tracks/1 - Florion Height/Texture 097.png
+3bfe534e784bea9c-1e47d3bf4effbee7-00005993 = In Game/Tracks/1 - Florion Height/Texture 097.png
+eadec3bc3558e6d0-215d855e2b2b213c-00001993 = In Game/Tracks/1 - Florion Height/Texture 098.png
+eadec3bc3558e6d0-215d855e2b2b213c-00005993 = In Game/Tracks/1 - Florion Height/Texture 098.png
+c775978d20fe10af-e7ca64ea67e54b7b-00001993 = In Game/Tracks/1 - Florion Height/Texture 099.png
+eeabcfecbeee81d2-ef6223084a773966-00001993 = In Game/Tracks/1 - Florion Height/Texture 100.png
+5e0d7c8a4b758cf3-8fa6feb092450bf2-00001993 = In Game/Tracks/1 - Florion Height/Texture 101.png
+f7df480b4267d475-7520714cd7cdca84-00001993 = In Game/Tracks/1 - Florion Height/Texture 102.png
+81823f7af30e212b-47383cc10e8e44e5-00001553 = In Game/Tracks/1 - Florion Height/Texture 103.png
+8f059df06c3bec75-fbb7fc52763d2a4c-00001553 = In Game/Tracks/1 - Florion Height/Texture 104.png
+b9c6dddc98309fe9-be9fd012cdcf30f1-00001553 = In Game/Tracks/1 - Florion Height/Texture 105.png
+b9c6dddc98309fe9-be9fd012cdcf30f1-00005553 = In Game/Tracks/1 - Florion Height/Texture 105.png
+f854d9c107735c4a-d861713bf4349477-00001553 = In Game/Tracks/1 - Florion Height/Texture 106.png
+40f28f958c7a61b1-c27d4f6182b24f2f-00001553 = In Game/Tracks/1 - Florion Height/Texture 107.png
+18ca35e0ee2f9241-77ab37ce697193b8-00001553 = In Game/Tracks/1 - Florion Height/Texture 108.png
+e7fb9196e12e1010-773e0b3f09844383-00001553 = In Game/Tracks/1 - Florion Height/Texture 109.png
+66016c4660c8bc11-152fe09e863fa076-00001553 = In Game/Tracks/1 - Florion Height/Texture 110.png
+b597b8a4585ac109-b77b858e6604a8cf-00001553 = In Game/Tracks/1 - Florion Height/Texture 111.png
+a465a79a182eae7f-3411d352e3b8e9d9-00001553 = In Game/Tracks/1 - Florion Height/Texture 112.png
+fed31eaa4bcb0ee6-276aaa2724aa116a-00001553 = In Game/Tracks/1 - Florion Height/Texture 113.png
+bd55bf3fbf901b61-8ab30b2a8300a5c1-00001553 = In Game/Tracks/1 - Florion Height/Texture 114.png
+284b39825b684560-721265500320fa48-00001553 = In Game/Tracks/1 - Florion Height/Texture 115.png
+ff485f46ef362ea6-f6735aec7b1ccb5d-00001553 = In Game/Tracks/1 - Florion Height/Texture 116.png
+92778e9dff0b2011-33ebdfdd67b18769-00001553 = In Game/Tracks/1 - Florion Height/Texture 117.png
+e7a5d1fac809a679-720775200cfd798f-00001553 = In Game/Tracks/1 - Florion Height/Texture 118.png
+e7a5d1fac809a679-720775200cfd798f-00005553 = In Game/Tracks/1 - Florion Height/Texture 118.png
+950f1aa6c2124c85-d5c38bed8f818189-00001553 = In Game/Tracks/1 - Florion Height/Texture 119.png
+950f1aa6c2124c85-d5c38bed8f818189-00005553 = In Game/Tracks/1 - Florion Height/Texture 119.png
+f1b877bed22fa5b8-592e452b8938c0b4-000019d3 = In Game/Tracks/1 - Florion Height/Texture 120.png
+3333bae286e0abde-ce1a049121ab31de-000019d3 = In Game/Tracks/1 - Florion Height/Texture 121.png
+53fdf729e9c84d64-ec931e99064eaee3-000019d3 = In Game/Tracks/1 - Florion Height/Texture 122.png
+9376d5f1a53631bc-a8219b8066b6f2d5-000019d3 = In Game/Tracks/1 - Florion Height/Texture 123.png
+d0a13d8bb2890c21-2e638e06500122a0-00001593 = In Game/Tracks/1 - Florion Height/Texture 124.png
+594757957364d1bb-bf61516c0bc5bbac-00001593 = In Game/Tracks/1 - Florion Height/Texture 125.png
+6c2d83160c365f51-c3a0666bca9c58c2-00001593 = In Game/Tracks/1 - Florion Height/Texture 126.png
+cbeae93bd20c1132-538b57df9bd80b0f-00001593 = In Game/Tracks/1 - Florion Height/Texture 127.png
+5ec632a7e4e2b95c-b8f9e1e934d12408-00001593 = In Game/Tracks/1 - Florion Height/Texture 128.png
+a1dc29316c0bca29-cc8d4465ce6d1940-000015d3 = In Game/Tracks/1 - Florion Height/Texture 129.png
+da06667c1bfb43a-f4f2bca7213a0d93-00001193 = In Game/Tracks/1 - Florion Height/Texture 130.png
+a8163828ddcd98f6-5793755a84f5ec15-00001153 = In Game/Tracks/1 - Florion Height/Texture 131.png
+968b8953631aabd7-8a9b4de95ca804f0-00001153 = In Game/Tracks/1 - Florion Height/Texture 132.png
+5e7360b05abbdef8-752485bd59cd1f1b-00001153 = In Game/Tracks/1 - Florion Height/Texture 133.png
+fd7aa3e2129ebd4a-ca7b86832d0d701d-00001153 = In Game/Tracks/1 - Florion Height/Texture 134.png
+d1fc461c2d8e0a69-cf08da25e6ba7428-00001153 = In Game/Tracks/1 - Florion Height/Texture 135.png
+9b194f697747c5ee-227db64773fdaaa3-00001153 = In Game/Tracks/1 - Florion Height/Texture 136.png
+73dc9d4dc2818922-d2e8d906a6ce0384-00001153 = In Game/Tracks/1 - Florion Height/Texture 137.png
+1c1ddf7ce2fe874-bb64f9127971c026-00005dd3 = In Game/Tracks/1 - Florion Height/Texture 138.png
+b5501cfb95604105-5c1d331fa84b52d6-00001993 = In Game/Tracks/1 - Florion Height/Texture 139.png
+
+ # In Game > Tracks > Mandrashee (China Sea)
+8a05d09c2691bb33-190e4ab94d5826d6-00002213 = In Game/Tracks/2 - Mandrashee/Skybox A.png
+3a796c75dea3dc7f-75d41c85d645158a-00002213 = In Game/Tracks/2 - Mandrashee/Skybox B.png
+975c40e085b40cd6-9a4abb34b6341e95-00002213 = In Game/Tracks/2 - Mandrashee/Skybox C.png
+5967896b884cb3f7-ef67a19835e2a443-00002213 = In Game/Tracks/2 - Mandrashee/Skybox D.png
+d0d93f9fb1db1427-eec7c04aa67d78ab-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 01.png
+d642a3a8538f6664-44b19fdebbcbcab6-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 02.png
+6b6e8d9501a57b2b-dd673f4c91b333cc-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 03.png
+c186987c704adc88-1742f440709d7530-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 04.png
+b1e07af579d75820-5c74c80f6e54021f-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 05.png
+8243dd06f5f5ee11-d0874cae4f39ceae-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 06.png
+52fa35af0a804d45-cd969976ff23f3ba-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 07.png
+cddb4e5b3dd1a1c9-96c42e3c55c5a250-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 08.png
+7dc6594eec29d057-5fec6dd8e99d4e74-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 09.png
+2cb318c0d59fe380-24129a2281ab29c0-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 10.png
+c43e317b327e4dc6-e0d1eff3aaa983aa-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 11.png
+9e07c88f6b22c028-9139da8e20d59809-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 12.png
+ea0ee615cdec7f3b-5cd1d591e2a54904-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 13.png
+1c081afc982e880a-ba63f9894f5a90cc-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 14.png
+855e981b606ce1f7-f23deb75f5092fd0-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 15.png
+31300d41cd06353f-cd1f1f44e34bd033-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 16.png
+82caab61f3b50f85-ba2faffee1c1cd01-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 17.png
+90fec43b69787ce0-652784c96c1806e2-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 18.png
+ffa7ec181614906c-43dd4e6fef0082e1-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 19.png
+d77ae114d664b901-596e2a366b910ff-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 20.png
+58230d1f477fff7c-233d8371cd492325-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 21.png
+6f72ddbdc85eca53-260a3f209a92ec1f-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 22.png
+3852a38af9e12917-f831c51d9f6e2c73-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 23.png
+5053819be6cda712-cbc65ceffb9f383b-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 24.png
+cc9d0db4cf219fbe-802fe06fdd17cc26-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 25.png
+12c091e600ce50eb-574428a6547b131f-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 26.png
+43a92cea9cc38e46-af2f8c00a0dc4ed2-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 27.png
+43a92cea9cc38e46-af2f8c00a0dc4ed2-00005dd3 = In Game/Tracks/2 - Mandrashee/Texture 27.png
+688857be90a3b807-dccc9fc246bde672-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 28.png
+a04297a03c24d574-f2099eb1ed51c3ee-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 29.png
+1422e8c1f1c08ca4-79ea5cf4f8506b80-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 30.png
+29622d9c8be70cb4-be6745b04f386318-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 31.png
+bc8a7623ba0d87d0-ea62e2f70554eee1-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 32.png
+ae761a47ddd0a31b-c7496376ec034615-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 33.png
+13862db1fef4db11-4b330af4a9ea8397-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 34.png
+69e52c861639300c-3be9570314524756-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 35.png
+483a96bfa360d9e9-90ec5de02bca911a-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 36.png
+6f55221a44c290b7-ed1d3c41c44a6686-00005dd3 = In Game/Tracks/2 - Mandrashee/Texture 37.png
+1d7c0d5146efe5f0-d28c40c19fa0abc3-00001993 = In Game/Tracks/2 - Mandrashee/Texture 38.png
+428685dd6fa0b9dc-281997c070907e87-00001993 = In Game/Tracks/2 - Mandrashee/Texture 39.png
+12827a87863b8879-5b88d48383e33f62-00001993 = In Game/Tracks/2 - Mandrashee/Texture 40.png
+720c66ff8139fd94-5cf409dead5ae942-00001993 = In Game/Tracks/2 - Mandrashee/Texture 41.png
+f917e371ecc08207-4c6e2dc032665c7b-00001993 = In Game/Tracks/2 - Mandrashee/Texture 42.png
+5fcc7607353e8642-b4ae678805439bfc-00001993 = In Game/Tracks/2 - Mandrashee/Texture 43.png
+e3316de08d874663-736b9839f01f909a-00001993 = In Game/Tracks/2 - Mandrashee/Texture 44.png
+c85ca4210c7e26e9-a56d5276c981a15a-00001993 = In Game/Tracks/2 - Mandrashee/Texture 45.png
+651149c1ea3f973e-2d0fe45eb6aad544-00001993 = In Game/Tracks/2 - Mandrashee/Texture 46.png
+f2f49f03fe166aa3-cac0f88e7568669d-00001993 = In Game/Tracks/2 - Mandrashee/Texture 47.png
+4bd77114d5aa7161-9fd70866300bc012-00001993 = In Game/Tracks/2 - Mandrashee/Texture 48.png
+3ba648edccd05bd5-f3feb07e3ca19a52-00001993 = In Game/Tracks/2 - Mandrashee/Texture 49.png
+d37c99ed7e39eb9e-2cc2b1502c72e114-00001993 = In Game/Tracks/2 - Mandrashee/Texture 50.png
+d37c99ed7e39eb9e-2cc2b1502c72e114-00005993 = In Game/Tracks/2 - Mandrashee/Texture 50.png
+fa68c43a6e39772f-55348d65d4e989d6-00005993 = In Game/Tracks/2 - Mandrashee/Texture 51.png
+e1244a91b16cd16a-51fada1ef9fa1a4c-000019d3 = In Game/Tracks/2 - Mandrashee/Texture 52.png
+1e91558daab1f567-e640734bbf3d693c-00001593 = In Game/Tracks/2 - Mandrashee/Texture 53.png
+af4652de2703101a-242807940f589331-00001553 = In Game/Tracks/2 - Mandrashee/Texture 54.png
+7c357e8738cd5611-2ae7275b9b403e2f-00001553 = In Game/Tracks/2 - Mandrashee/Texture 55.png
+62e588137c809ee4-82c147ea35d8513b-00001553 = In Game/Tracks/2 - Mandrashee/Texture 56.png
+73b6c66398b38efd-76af69fcd35552ea-00001553 = In Game/Tracks/2 - Mandrashee/Texture 57.png
+bd295127a4e3af86-91190722bff093ee-00001553 = In Game/Tracks/2 - Mandrashee/Texture 58.png
+97d40b50507b78f7-50ad8588dbd80348-00001553 = In Game/Tracks/2 - Mandrashee/Texture 59.png
+97d40b50507b78f7-50ad8588dbd80348-00005553 = In Game/Tracks/2 - Mandrashee/Texture 59.png
+e1655e4b04e5f783-8aa68038dd6bac9a-00001553 = In Game/Tracks/2 - Mandrashee/Texture 60.png
+e1655e4b04e5f783-8aa68038dd6bac9a-00005553 = In Game/Tracks/2 - Mandrashee/Texture 60.png
+4c32e8ccdb8112a7-50bf218983167af6-00005dd3 = In Game/Tracks/2 - Mandrashee/Texture 61.png
+f44e68d6054c01c4-32cb2dc41e9cd6b0-00001dd3 = In Game/Tracks/2 - Mandrashee/Texture 62.png
+a8f7cb719609198b-1263b2f62ed3ba7-00001113 = In Game/Tracks/2 - Mandrashee/Texture 63.png
+35f225b8fec286cb-7e25924bb5e655a6-00001993 = In Game/Tracks/2 - Mandrashee/Texture 64.png
+
+ # In Game > Tracks > Cubiss Float (Switzerland)
+f29e062125a750b3-a644901cce8df009-00002213 = In Game/Tracks/3 - Cubiss Float/Skybox A.png
+7029cb4f4e67faf1-26129784089795ba-00002213 = In Game/Tracks/3 - Cubiss Float/Skybox B.png
+51c2a316d7240990-3e8435b32cba55cc-00002213 = In Game/Tracks/3 - Cubiss Float/Skybox C.png
+f2935dec8e45044c-6ab1d185c1602ac8-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 01.png
+ff7c9b9152c4fa87-a1115e0cfdc92a8c-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 02.png
+bd36a1ec640ad122-6147eeb54859fb81-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 03.png
+69ce195c7a863c6b-d364f0e20ee7241a-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 04.png
+69ce195c7a863c6b-d364f0e20ee7241a-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 04.png
+46557155c978411b-41e2d7cbe6ce1104-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 05.png
+46557155c978411b-41e2d7cbe6ce1104-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 05.png
+960a161a0eac41a8-7056aace22e19443-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 06.png
+e5ca4ae0b0022579-23b5eb790810fdba-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 07.png
+64b388766495e73-ea7bc222bb6e5d65-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 08.png
+cea22e3b7e5886bd-f5c21a1f68885a1d-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 09.png
+768d1bcec1d02d9-e5849f64789a5345-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 10.png
+52f2e346066dd849-4f433773a6329c2a-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 11.png
+82e840b08344c230-5dcc7ba3a15c1eb7-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 12.png
+16ab51aecf960e18-aa469469bf72aa2b-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 13.png
+bf9673593402103b-8a16906e5f3a7650-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 14.png
+909325843214f645-6d91da9cfc6661f1-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 15.png
+91d68aa9fba16c61-39a765d2ea77d0c9-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 16.png
+401ccb3e71c41060-a42f08fab1d763c4-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 17.png
+c3d2f9a3ba481ede-789f675d3e77ee3b-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 18.png
+b43afda3dd19a52b-737bd9e05b0b7446-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 19.png
+75f8660c6b02955a-71d51b264603f167-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 20.png
+b851042c1c799870-14cb8084f027c840-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 21.png
+239e3e86a5304ebd-781eb291c550983e-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 22.png
+62f88164ad05c603-4ff6a0ef92dcb6bd-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 23.png
+7e145beba3083160-60d0eb7007a85713-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 24.png
+2ec3469b1955b759-a93dcd694e80d571-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 25.png
+bef950909312d8f8-149cbcf9ce33d760-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 26.png
+dd5bd655ce85666d-b37b5c80d73d56bd-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 27.png
+dd5bd655ce85666d-b37b5c80d73d56bd-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 27.png
+d25f4fdb64a67917-29bdf277fee3c6e6-00001dd3 = In Game/Tracks/3 - Cubiss Float/Texture 28.png
+4fc56651c76a5285-7f540606fb3c4f8d-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 29.png
+27f2bd55c51534ba-fbd99a6785bf9420-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 30.png
+53cd4a3aec132275-e6044eb68726dc59-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 31.png
+bc1974eb6304158b-5f2acb0a5df0d55d-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 32.png
+69c2a915488c444d-1465c1c5b866f0c7-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 33.png
+e5a0b2456dc4378c-28b5b56c356e9eb3-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 34.png
+f36ad0856cfaa4e2-62fa5ee819f8da3f-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 35.png
+f4686a60998f2841-f7a2527c1da2f84-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 36.png
+cbffa6fda97ca8d8-1891cdd1b7ce109d-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 37.png
+2b56847fd34a049d-ad3f9acc86e59b60-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 38.png
+e04383db80c41004-7353a9808bd59902-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 39.png
+251cc4df96eb7bea-5d1c243f0f3790c5-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 40.png
+87d7112570d7862c-92fef6b9f428abef-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 41.png
+4fa24384e392a871-daf27475058fc2f2-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 42.png
+eccf29bd476acff7-a212d9709ef4f67c-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 43.png
+90090891f331ca0e-be034b5f462ebc35-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 44.png
+cf8d4dc0410cfcc1-3763c8b1b3300125-00001993 = In Game/Tracks/3 - Cubiss Float/Texture 45.png
+b965e58d2a7202b-558e34958355daec-00001553 = In Game/Tracks/3 - Cubiss Float/Texture 46.png
+f59845d65eda1f57-81237b45cedc888b-00005553 = In Game/Tracks/3 - Cubiss Float/Texture 47.png
+db423af60ff78c28-2266e59e9d3486da-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 48.png
+d0a0a39ea6469cfb-2adfbf89f4fc23d0-00005dd3 = In Game/Tracks/3 - Cubiss Float/Texture 49.png
+aca73797116f9395-bb87e0a7f9e3e372-00005993 = In Game/Tracks/3 - Cubiss Float/Texture 50.png
+
+ # In Game > Tracks > Alca Vexus (Mexico)
+7dec5c34d53cf865-976b0ad3066ce884-00002213 = In Game/Tracks/4 - Alca Vexus/Skybox.png
+6018fc6b1526ad9f-4b171d2762b9da2f-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 01.png
+320396f9c8ac5da4-5912bc4c34f22fc8-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 02.png
+4e345aed9bc58d1b-b5db8eb7ab56bc6c-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 03.png
+b8260d4d2905709d-eb8cc9bfa7da9ab4-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 04.png
+1a8ae6f7ca7d32a7-9e759d21629b386a-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 05.png
+1a8ae6f7ca7d32a7-9e759d21629b386a-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 05.png
+d41a93eeee39b96c-753932ace32ceb3d-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 06.png
+16fbd02dec8e81e4-ac08b6aa435bb3ad-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 07.png
+9a21bcdcaaa0c70c-daa85632b71f3165-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 08.png
+1b3c8a50db5cd90a-723a1e33975dbaab-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 09.png
+1b3c8a50db5cd90a-723a1e33975dbaab-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 09.png
+64304bb7aee0a151-9375c39dd0f942d6-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 10.png
+f9ee28dca30e1b9f-2b3e0bcec5d7c937-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 11.png
+f9ee28dca30e1b9f-2b3e0bcec5d7c937-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 11.png
+9f7b1f95347d50d8-1119d24dff5fd476-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 12.png
+31afc929d8116267-4e25cc5b399213ee-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 13.png
+c3cc56215aa7ebf2-3917edf24eb94a8e-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 14.png
+58aeb2443cd4d3ae-2897105b130a81e5-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 15.png
+7501cfe60c179e6a-24babbfc6778165-00001993 = In Game/Tracks/4 - Alca Vexus/Texture 16.png
+d55c7c1c01da882d-8d9c4bae5af5d60-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 17.png
+c1e4eb5f79fe8538-ccec7cda39f81b3c-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 18.png
+f326a0adb6777a1f-6eb4fe0cc3e4a631-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 19.png
+9e8579b5ec87e69d-a3cb286fee3f4d75-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 20.png
+d55b906f757e62c3-ec5378ad774da4cd-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 21.png
+ddea32ca326c2515-70cf6d69f72d6bc1-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 22.png
+4f48e1b8659cc890-efebb0be8e1c24c6-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 23.png
+cb88d440a1493185-a8e5f724510630c3-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 24.png
+68a203f67caf5e66-52da956259202460-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 25.png
+b71d5a81ce0505be-82a1987d9a141e31-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 26.png
+f6e6e46331a589a5-1e1e5edc0cc033bc-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 27.png
+380e33ef7a4a21d1-c18734c321aa1d36-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 28.png
+ffe0dbda8cc34551-97a1708bd03d4481-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 29.png
+ab0eb27eadc31552-c87863a8990eedea-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 30.png
+40f49db3fd4e6c61-98909392573cd88b-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 31.png
+486cc44bbf2063b0-512a3fa7b6cead4-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 32.png
+481738c326988b81-45635decc46a782e-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 33.png
+46b7cfc538e27da4-b9e04dea01364cc5-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 34.png
+33f734f535469d5b-de8f7b068af8e2e5-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 35.png
+a91b17f35ea8a46d-5fbbd9542aa9d2e4-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 36.png
+7e15638789de566d-82a16019d0b1a8d5-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 37.png
+7a7a718989a96311-7949131091199c35-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 38.png
+7a7a718989a96311-7949131091199c35-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 38.png
+c5370a9f9c97d704-a4584837ca5a2ae0-00001993 = In Game/Tracks/4 - Alca Vexus/Texture 39.png
+bcdf148959e255b3-4e945d58af7e17c4-00001993 = In Game/Tracks/4 - Alca Vexus/Texture 40.png
+57be3b2aa619db9a-5acd2a077d335919-00001993 = In Game/Tracks/4 - Alca Vexus/Texture 41.png
+761bd9b869c8a834-9279c19eae05cf68-00001993 = In Game/Tracks/4 - Alca Vexus/Texture 42.png
+a9ab80732a2beccc-83efc9c38eb12b87-00001593 = In Game/Tracks/4 - Alca Vexus/Texture 43.png
+62d33edccbd8f404-154c847a43b31f46-00001553 = In Game/Tracks/4 - Alca Vexus/Texture 44.png
+62d33edccbd8f404-154c847a43b31f46-00005553 = In Game/Tracks/4 - Alca Vexus/Texture 44.png
+6d3bf954759eb15b-dd1857525d7f5898-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 45.png
+c56e07fadb284c07-91f1f2d0d36a5d58-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 46.png
+58b5b133055aba1c-704c9360dee73ec6-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 47.png
+305380ae6d37b541-2fdcdc951898a791-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 48.png
+ca393edae999fd2f-273abe68d3c52fc3-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 49.png
+4b8094f1c0743bed-171919fa905d7eb6-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 50.png
+2a1d969494bfcb87-c3fda7c9a91bdec0-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 51.png
+48084b3048b488dd-ce0282057464ac94-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 52.png
+9d0f28d8669059d9-2fd2e519706fb1e9-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 53.png
+1b48f73892ecbad8-e9b4ac99d37c71f7-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 54.png
+ba329a55fb778a-1da1f0dfedd56d25-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 55.png
+3be2a9da8c3b98be-9ca31788b7b561ab-00005dd3 = In Game/Tracks/4 - Alca Vexus/Texture 56.png
+c6b2e6c58ff47c03-6201c93c1b662e4c-000059d3 = In Game/Tracks/4 - Alca Vexus/Texture 57.png
+f73c7652bad12ec-b90bbb927bfb8171-00001dd3 = In Game/Tracks/4 - Alca Vexus/Texture 58.png
+
+ # In Game > Tracks > Vohl Square (USSR)
+9d3f7f5d2e7c4af2-443c3ae153862e73-00002213 = In Game/Tracks/5 - Vohl Square/Skybox A.png
+ed6607ad9525bd14-f03f646a12fda172-00002213 = In Game/Tracks/5 - Vohl Square/Skybox B.png
+e970ec46d5e20cea-61c7aac0d267ca00-00002213 = In Game/Tracks/5 - Vohl Square/Skybox C.png
+b01ef16d57fd6243-3f670d84ec8696de-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 01.png
+ac53259267791350-71d914f02846f09e-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 02.png
+ac53259267791350-71d914f02846f09e-00005dd3 = In Game/Tracks/5 - Vohl Square/Texture 02.png
+746eb8afaedddf1f-e3c628ed13a85cd4-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 03.png
+512ff58d56f18ce5-cedf5fd1dc1980c5-00001993 = In Game/Tracks/5 - Vohl Square/Texture 04.png
+d43222c51b6256cc-48b7448377681ac5-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 05.png
+ec7eb34ee16cd2ab-aa44bb65811d4c17-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 06.png
+92b62dc8699e58fe-6b7c2c6eaf7dbb8e-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 07.png
+8faabdf3ef7c59b8-8f366a8098c95-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 08.png
+e751afda18e4dd30-9594ab1fb0e66a60-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 09.png
+3a18f3b3d3a0528d-abe5379a4efe1aee-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 10.png
+e13dd2a09b6322cc-349284b5355a4a58-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 11.png
+a9ac7d5f5dab9ff2-d3ff127552a52550-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 12.png
+f104a5db683f6f96-a9fa57e47a47236a-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 13.png
+994547c1d7779b9d-12e204c401e79a2e-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 14.png
+1cee3c31016d89d4-5f1a201aec705eca-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 15.png
+7773226f5497d377-3965eccb28adc8a2-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 16.png
+e6ab12adde23e45f-54e02d382e5aca14-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 17.png
+3405ed35ef1481e3-6674bd84e907173b-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 18.png
+f7c1a042c2f8f579-bfe687a789b10dd1-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 19.png
+be1db040ea801036-9501273dacd83b07-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 20.png
+6ef9b7216e3bb5b9-36c5062e783c34b2-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 21.png
+99bd32006cb4529c-c074d6cdae91046-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 22.png
+672eb49d5c1cf759-6dbec408ed723097-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 23.png
+672eb49d5c1cf759-6dbec408ed723097-00005dd3 = In Game/Tracks/5 - Vohl Square/Texture 23.png
+615e95e19bff000a-3ca00dd646d1be3e-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 24.png
+80999fee398104f4-5d48fbb4f20f2579-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 25.png
+181cfd069509ee56-3c546dcc379251dd-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 26.png
+dc7d5f6996c611e4-816b838144cd9381-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 27.png
+cb19e0676bef75db-a6bf8c7047239c32-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 28.png
+5840a6c70a08eaf0-eff180714c3c9841-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 29.png
+a4f9ab9c5a3c45c-eea9645ac92d4a37-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 30.png
+664f8aad4304a26-9cf9b92d0d8be709-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 31.png
+49d4a606b4ff0ae-d8bdef239c389fae-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 32.png
+dd810a16863377c2-6da7469aa2249ddb-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 33.png
+abcf64609962617e-603475c131491e68-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 34.png
+6db6d077c2f9cae3-e57e87dc06ff4d43-00001993 = In Game/Tracks/5 - Vohl Square/Texture 35.png
+845464bb3d13005c-4b8a575d406a91ba-00001993 = In Game/Tracks/5 - Vohl Square/Texture 36.png
+b7f75b39bf425b77-d92e011eb935c97f-00001993 = In Game/Tracks/5 - Vohl Square/Texture 37.png
+f2817dd01fa12f12-98b70d525e7fb2b3-00001993 = In Game/Tracks/5 - Vohl Square/Texture 38.png
+502c805af534f260-90006b5cc2131df3-00001993 = In Game/Tracks/5 - Vohl Square/Texture 39.png
+c7f5dbdaa41d70ce-e59c30293bcc7fa0-00001993 = In Game/Tracks/5 - Vohl Square/Texture 40.png
+6119e2bf4e089ac2-fc28ceeff4f08339-00001993 = In Game/Tracks/5 - Vohl Square/Texture 41.png
+ac5fd95c00e1dc3c-58211d0734faad1d-00001993 = In Game/Tracks/5 - Vohl Square/Texture 42.png
+e9eb53a0db7fcc2b-de34d0edf832e8c8-00001993 = In Game/Tracks/5 - Vohl Square/Texture 43.png
+aa063cfaf98e4207-dc08e5dd38509123-00001993 = In Game/Tracks/5 - Vohl Square/Texture 44.png
+9edc97c3cc17baa-3368e9e0dd41f194-00001993 = In Game/Tracks/5 - Vohl Square/Texture 45.png
+9edc97c3cc17baa-3368e9e0dd41f194-00005993 = In Game/Tracks/5 - Vohl Square/Texture 45.png
+ce5e7d1146665bd4-f9f3828abfc130cd-00001993 = In Game/Tracks/5 - Vohl Square/Texture 46.png
+ce5e7d1146665bd4-f9f3828abfc130cd-00005993 = In Game/Tracks/5 - Vohl Square/Texture 46.png
+4ecceae34d01a910-30ac5904f0b95e22-00001993 = In Game/Tracks/5 - Vohl Square/Texture 47.png
+432e0520cdf789d9-abc300b06068ae2d-00001993 = In Game/Tracks/5 - Vohl Square/Texture 48.png
+805d771ede63bd55-b23a2f149f857c7-00005993 = In Game/Tracks/5 - Vohl Square/Texture 49.png
+f8b0dca161b61818-f09babc762105309-00001993 = In Game/Tracks/5 - Vohl Square/Texture 50.png
+bf60e6872ffde8f8-ed74e26ba6e8d673-00001993 = In Game/Tracks/5 - Vohl Square/Texture 51.png
+20d37ee02e9fcdbb-1d9a736a212bc7a-00005993 = In Game/Tracks/5 - Vohl Square/Texture 52.png
+b6fd43caad3aead0-24ddc739b97a0f0a-00001993 = In Game/Tracks/5 - Vohl Square/Texture 53.png
+b6fd43caad3aead0-24ddc739b97a0f0a-00005993 = In Game/Tracks/5 - Vohl Square/Texture 53.png
+6c214c87894c9d2d-4b99bda1473fba1f-000019d3 = In Game/Tracks/5 - Vohl Square/Texture 54.png
+7559b50dee2271c9-42988bff49a3f32-00001553 = In Game/Tracks/5 - Vohl Square/Texture 55.png
+adbaa0cd6d825734-f830c1069604c2de-00001553 = In Game/Tracks/5 - Vohl Square/Texture 56.png
+4e6ff05a6e45a874-5e020dff93c3cffa-00001553 = In Game/Tracks/5 - Vohl Square/Texture 57.png
+3f523c4b9486415c-1429438d10c50faf-00001553 = In Game/Tracks/5 - Vohl Square/Texture 58.png
+7c6858f50eb7a923-899eac4831ade647-00001553 = In Game/Tracks/5 - Vohl Square/Texture 59.png
+f568cb1a7d61a91d-2ecd8534b78fa459-00001553 = In Game/Tracks/5 - Vohl Square/Texture 60.png
+5292c8e285ad3f72-f6c44e13daa17d8e-00001553 = In Game/Tracks/5 - Vohl Square/Texture 61.png
+5292c8e285ad3f72-f6c44e13daa17d8e-00005553 = In Game/Tracks/5 - Vohl Square/Texture 61.png
+86b6b686c1686d8b-9517a27b0f8a841f-00001553 = In Game/Tracks/5 - Vohl Square/Texture 62.png
+50c6fe9f5614146c-2059229d538db657-00001553 = In Game/Tracks/5 - Vohl Square/Texture 63.png
+ff0b9842366930bb-2b1bbc92f55f43ff-00001553 = In Game/Tracks/5 - Vohl Square/Texture 64.png
+55d464dbce2f2639-23a7dbdb80ff8d09-00001553 = In Game/Tracks/5 - Vohl Square/Texture 65.png
+6739c1f077bb8272-bbffd49d2157e2ed-00001553 = In Game/Tracks/5 - Vohl Square/Texture 66.png
+4fa478d887f4479-3795d0bfcbd18695-00001553 = In Game/Tracks/5 - Vohl Square/Texture 67.png
+67907c6cce0ddc7e-672afaef18a23d2b-00001553 = In Game/Tracks/5 - Vohl Square/Texture 68.png
+df01e28e57e23cfb-b7424f2792ad316f-00001553 = In Game/Tracks/5 - Vohl Square/Texture 69.png
+b9c2e93e2764e112-4d23543ed2a18ef5-00001553 = In Game/Tracks/5 - Vohl Square/Texture 70.png
+da86c09604d96b08-866633c53ff0ffe7-00001553 = In Game/Tracks/5 - Vohl Square/Texture 71.png
+da86c09604d96b08-866633c53ff0ffe7-00005553 = In Game/Tracks/5 - Vohl Square/Texture 71.png
+2ccef3d769677f6f-5c4578b79db039ba-00001553 = In Game/Tracks/5 - Vohl Square/Texture 72.png
+2ccef3d769677f6f-5c4578b79db039ba-00005553 = In Game/Tracks/5 - Vohl Square/Texture 72.png
+de5f15ab6daf7941-85aad002e9c1ee89-00001553 = In Game/Tracks/5 - Vohl Square/Texture 73.png
+de5f15ab6daf7941-c6ff0f692f23e751-00001553 = In Game/Tracks/5 - Vohl Square/Texture 74.png
+ab90d693f6764031-6f05b961872bf1b7-00001593 = In Game/Tracks/5 - Vohl Square/Texture 75.png
+699af251c5f28c2b-3b7d3146c69d8fe4-00001153 = In Game/Tracks/5 - Vohl Square/Texture 76.png
+a175d7fdf5b644f-15b08de1802a6aab-00001153 = In Game/Tracks/5 - Vohl Square/Texture 77.png
+fb0e055e9670b7d6-d5db24dde7e8d3e0-00001113 = In Game/Tracks/5 - Vohl Square/Texture 78.png
+7a235bb1f268ffcb-f0675a05cfa0fca3-00001113 = In Game/Tracks/5 - Vohl Square/Texture 79.png
+4215baa19ddd7312-53ba2d6eae7e2ef2-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 80.png
+bd443321ab9be645-53ba2d6eae7e2ef2-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 80.png
+f1c6c510bfca37fc-53ba2d6eae7e2ef2-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 80.png
+2ffb6918c12c256e-75767c480e25fcd6-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 81.png
+a2243d692d97c193-75767c480e25fcd6-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 81.png
+cbb9167888a8864d-75767c480e25fcd6-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 81.png
+7b5aa2ee56ababc9-11d2e048d72624e3-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+9b0162fda39a1d03-11d2e048d72624e3-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+14490e70a0abefd6-11d2e048d72624e3-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+eda6b69076bf1044-11d2e048d72624e3-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+edf82a0c0df29061-11d2e048d72624e3-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+14490e70a0abefd6-13d138bc99b73179-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 83.png
+bd443321ab9be645-13d138bc99b73179-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 83.png
+edf82a0c0df29061-13d138bc99b73179-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 83.png
+f1c6c510bfca37fc-13d138bc99b73179-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 83.png
+3fc0b9589a1cdcd2-1851c4ed01c26781-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+a2e11424ce0db6e2-1851c4ed01c26781-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+e765a6f76a315ad-1851c4ed01c26781-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+ef90fe4a0082ae2a-1851c4ed01c26781-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+6f4367253ea64e4c-2b8b003b4b07cd3-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 85.png
+162f4997b3642aa0-17acc9cf9f3bd417-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 86.png
+a4d101907416c433-54ddee9f1366f8b1-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 87.png
+1905d23b0a135080-9cf63af8095a2dd7-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 88.png
+c9a3db43b98e7837-f6cf41b32e7f91ba-00001dd3 = In Game/Tracks/5 - Vohl Square/Texture 89.png
+1256c4963585e50a-d83cba4fd159f3b6-00001993 = In Game/Tracks/5 - Vohl Square/Texture 90.png
+a3af991565fb679c-69d3e534d03c3578-00001993 = In Game/Tracks/5 - Vohl Square/Texture 91.png
+8e5618ed949a2cca-7a86cfff0c43d62c-00001113 = In Game/Tracks/5 - Vohl Square/Texture 92.png
+# European Version #
+bf60e6872ffde8f8-81ab4ce9bde3aec7-00001993 = In Game/Tracks/5 - Vohl Square/Texture 51.png
+20d37ee02e9fcdbb-17caa2fff6a5ac62-00005993 = In Game/Tracks/5 - Vohl Square/Texture 52.png
+de5f15ab6daf7941-9048b3d095ff09dd-00001553 = In Game/Tracks/5 - Vohl Square/Texture 73.png
+de5f15ab6daf7941-650fc6ce0efc1a74-00001553 = In Game/Tracks/5 - Vohl Square/Texture 74.png
+7a235bb1f268ffcb-a4eaf1487d43ec41-00001113 = In Game/Tracks/5 - Vohl Square/Texture 79.png
+4215baa19ddd7312-2fbdaba3d09ebfc4-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 80.png
+f1c6c510bfca37fc-2fbdaba3d09ebfc4-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 80.png
+a2243d692d97c193-ff17f0b3bf9b9712-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 81.png
+cbb9167888a8864d-ff17f0b3bf9b9712-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 81.png
+9b0162fda39a1d03-9feef2746c25161d-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+14490e70a0abefd6-9feef2746c25161d-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+eda6b69076bf1044-9feef2746c25161d-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 82.png
+14490e70a0abefd6-d13a76eb93f4ee2c-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 83.png
+f1c6c510bfca37fc-d13a76eb93f4ee2c-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 83.png
+a2e11424ce0db6e2-1ad4614ab89839c7-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+e765a6f76a315ad-1ad4614ab89839c7-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+ef90fe4a0082ae2a-1ad4614ab89839c7-00000cd3 = In Game/Tracks/5 - Vohl Square/Texture 84.png
+
+ # In Game > Tracks > Temtesh Bay (Australia)
+9d35c3b814e83f76-d77bd852af280345-00002213 = In Game/Tracks/6 - Temtesh Bay/Skybox A.png
+16578568ca5ae317-89f4fa88d8e7f952-00002213 = In Game/Tracks/6 - Temtesh Bay/Skybox B.png
+142ada47816e3fd9-8759db185041a849-00002213 = In Game/Tracks/6 - Temtesh Bay/Skybox C.png
+44b5b441534479c9-24c512b6262111fb-00002213 = In Game/Tracks/6 - Temtesh Bay/Skybox D.png
+55f4af73bf110948-11835931bce41719-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 01.png
+bbf2db3d628943ff-a2c278da09c2e2b4-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 02.png
+1c7e2e11294971fe-b1e8add20478f1d7-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 03.png
+b905ee95727a055f-432ba87a7cc106e7-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 04.png
+13764caef79b4413-2752f8a0a642f3d7-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 05.png
+5681c5652419496a-a775e8d65f1876a0-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 06.png
+d43300d05f56fc25-e23295453c172788-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 07.png
+d43300d05f56fc25-e23295453c172788-00005dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 07.png
+adc9e168886b7759-1f0ddbebd94c4a24-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 08.png
+24c6f8da43c0e37a-d3a22d7b56301cc3-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 09.png
+7580cdfd0225f053-2d4bcbdc87a0649f-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 10.png
+407068ae038d3fe6-16ce91886f39c563-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 11.png
+e09c8fde190893ce-5ddee0382627c83c-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 12.png
+64963667d9a9874d-7745a28fcba4c6e1-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 13.png
+12719703a74d870-e7b50e7ec6db3903-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 14.png
+c902cc1a60a7531-f58c1a1351a64d88-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 15.png
+8e1c8583f6ac0326-898f2bf4c3d17391-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 16.png
+4a27d72886f690c-6c8cd5b9fbc7e47a-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 17.png
+5d7546068871b5d-a1f95250be28c8e6-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 18.png
+875f40166d47060f-dc05eaf0581b84da-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 19.png
+4d6187b7a477e8c5-fa169335110f6fc1-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 20.png
+55632bb8bd12030a-fe538b680ba5df95-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 21.png
+1dd5d3a70c38a93a-76293b10c361207d-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 22a.png
+d0a530f25a8e773b-76293b10c361207d-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 22b.png
+bfc738ebeb476069-47ef5cf5bf16d2e9-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 23.png
+6b911d1df7b1031d-2e9039ed86891b9a-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 24.png
+1c95fb588d9b2032-b6daa94bebb7453c-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 25.png
+c228d4499a7dcf9-ad1b468254cb8660-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 26.png
+a282900732ff7ce2-daa5ed104edc6e6a-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 27.png
+7689f1485bd114db-649d1c329d99e73-00001dd3 = In Game/Tracks/6 - Temtesh Bay/Texture 28.png
+69acf97e641c7f2a-3e852ad395c35533-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 29.png
+40292956c5318168-da7164b304ba05dc-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 30.png
+84ab9530f070397b-4a7610726a3c6cb0-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 31.png
+a0c80347668c1b11-8a50008c956e88e3-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 32.png
+9e187f730ca9d0f3-3c07bdc362a7ace2-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 33.png
+7fb88fe56e3dc9c-e806d75a93687204-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 34.png
+4419238adb3f7c78-330a5081a500cae4-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 35.png
+72ee22949e065b79-bb7b81920f6c6df6-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 36.png
+21e5eccbff28767e-fe4212b39beee7b6-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 37.png
+ec1212e275c82d09-72116b8209d261bd-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 38.png
+848c368160be47d2-dc424b811b920d35-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 39.png
+ec0af1d6c4189621-4835ca39c7b4784c-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 40.png
+88f8dc2198075579-918a7497de37f0cf-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 41.png
+88f8dc2198075579-918a7497de37f0cf-00005993 = In Game/Tracks/6 - Temtesh Bay/Texture 41.png
+2f886a3c5eef7dc7-cf2a36b259333cdb-00001993 = In Game/Tracks/6 - Temtesh Bay/Texture 42.png
+2f886a3c5eef7dc7-cf2a36b259333cdb-00005993 = In Game/Tracks/6 - Temtesh Bay/Texture 42.png
+f4a71345c04f916e-2d36f7dfc2588d63-00005993 = In Game/Tracks/6 - Temtesh Bay/Texture 43.png
+1d9be6f26642bc7b-72a1a67f26cddc22-00001593 = In Game/Tracks/6 - Temtesh Bay/Texture 44.png
+4bcb7a4e5d0b8463-2c87e95eb663e2a4-00001593 = In Game/Tracks/6 - Temtesh Bay/Texture 45.png
+19c4a4b6d6442000-3f7ae6b98bbfe300-00001593 = In Game/Tracks/6 - Temtesh Bay/Texture 46.png
+e8ef58039a84cc7-d21ce02edb38c663-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 47.png
+9556d7c75533d24-9f46b399f0327045-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 48.png
+2fc5ec60eb4afb7e-35e09b9f83c10d52-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 49.png
+cf364869a8cb9837-3ac9d5b951e0a61b-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 50.png
+32cab7fad5aa1e0f-975599ecc46babe5-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 51.png
+1b4254d120b6a7f3-15dbf8bc4c14a9af-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 52.png
+8679ff3b588e711c-d64d14febfe8a8ce-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 53.png
+ce7996ace34cf185-123021a5143de9bc-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 54.png
+883078ce5cfd844c-a716ce59ee7c19c0-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 55.png
+337648315798b45d-cbdffdd78143bb6c-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 56.png
+35029ae00121d326-b22b83b0ec9a9e84-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 57.png
+be07207debcb3b8a-ba594ec80de41047-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 58.png
+e7064e42dbf65da7-13635a6c317fdd6f-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 59.png
+70de2a14d3e9ee5b-14d3696bcfc8849-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 60.png
+70de2a14d3e9ee5b-14d3696bcfc8849-00005553 = In Game/Tracks/6 - Temtesh Bay/Texture 60.png
+91826af72f7eaa51-c284c5067253d33f-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 61.png
+a483779f997c1290-16756779053cb453-00001553 = In Game/Tracks/6 - Temtesh Bay/Texture 62.png
+c89be1258d42bb92-71671ac72bd81dc5-00001153 = In Game/Tracks/6 - Temtesh Bay/Texture 63.png
+6886af154dc3daec-3288c121f1998c15-00001113 = In Game/Tracks/6 - Temtesh Bay/Texture 64.png
+
+ # In Game > Tracks > Katmoda 12 (Moon)
+5df21db0bec7992a-a00e202169c40f74-00001dd3 = In Game/Tracks/7 - Katmoda 12/Earth.png
+513b0df0373aba97-2fb9cf61d0532d-00001dd3 = In Game/Tracks/7 - Katmoda 12/Skybox.png
+40b78f3f6d432600-e8a0ff5ee5424052-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 01.png
+42abb75177b2f957-775855f0c6390a71-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 02.png
+3d90743b6f4bec2c-fc47b9b0ee55789-00002213 = In Game/Tracks/7 - Katmoda 12/Texture 03.png
+672dda5166a01288-294f55ec77d9adb9-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 04.png
+abc02770795c6401-679e37098d830272-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 05.png
+c979a6ceb7b4aacd-c27a048bf5c0f40b-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 06.png
+abf6df4587f8e272-ee6878ae7c757de1-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 07.png
+e3cccde19da6bcc9-9a322ef87d3eb7f6-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 08.png
+90ac2ec34a0d3642-49e837d618c46755-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 09.png
+9259f46833c375ea-3babbe11f7b53a76-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 10.png
+5c80034556c9ad75-181355842afd9124-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 11.png
+f8b59659255fabdf-269250b21a4551fd-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 12.png
+fc872515f3b24cac-b72e1e04dad249f3-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 13.png
+c29205384743d44c-88bca371069232d-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 14.png
+2b3899d168f9e020-39f37460cf1018ea-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 15.png
+59f1f8c5cb88b2f7-88c330f640e0457b-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 16.png
+3ac9c3d2a7587dde-32fec0dd9772769b-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 17.png
+ede9a03fb0ccd824-a6f4ece3c964b7af-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 18.png
+ea1f29bf7a7e6b77-78f73ed96edfc7c9-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 19.png
+171dbc140b8c13aa-749d807a6dcffc78-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 20.png
+bc0bd72638cd6e94-d40b09cbe5a35fc5-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 21.png
+12a24b78ec877de9-d1ce66c5e54f16e4-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 22.png
+88f47bdb1329df80-fc863f7c8c28e12e-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 23.png
+19e386cab3b1213f-6c5adf36431601f5-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 24.png
+aa162a56a543d4e9-9258076fd5a9b3d6-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 25.png
+19b9a89130207e9a-bbe1fc43cd7f14a3-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 26.png
+19b9a89130207e9a-bbe1fc43cd7f14a3-00005dd3 = In Game/Tracks/7 - Katmoda 12/Texture 26.png
+b4013ca045e655b1-5dacc283fe99e269-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 27.png
+8c45d163f127fb48-70202aa18ba17749-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 28.png
+8dc2f112e71cebc6-750de8ebdf8975e3-00001dd3 = In Game/Tracks/7 - Katmoda 12/Texture 29.png
+2bd7d64d66745688-a3db35181aa0ca1b-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 30.png
+6220abf34dcb29a6-67797645529315bb-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 31.png
+50920240ba253841-86265d73f023d8aa-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 32.png
+6bf15ae2e9adeec7-e30cd0f2dd1798d6-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 33.png
+3936bfe012a4187b-cabd18b9bcb7a0b7-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 34.png
+1592dd4c402faa43-958a58b09aeecb2f-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 35.png
+1592dd4c402faa43-958a58b09aeecb2f-00005993 = In Game/Tracks/7 - Katmoda 12/Texture 35.png
+20d37ee02e9fcdbb-5fa7b1b325a29b03-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 36.png
+20d37ee02e9fcdbb-5fa7b1b325a29b03-00005993 = In Game/Tracks/7 - Katmoda 12/Texture 36.png
+590586dba58b98e4-e20b9b43301417a1-00005993 = In Game/Tracks/7 - Katmoda 12/Texture 37.png
+eeb60fd63424676f-92104e2ec5cec464-00005993 = In Game/Tracks/7 - Katmoda 12/Texture 38.png
+7dabbcae69bb4357-ab0b03087cd99c85-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 39.png
+5bd7abc4399a3145-6ae0687f8cdffe5e-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 40.png
+a6a06016517203e7-9ba5ba42090f3ed-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 41.png
+efd1c8d11fd64923-5efe7d00b65b4d41-00005553 = In Game/Tracks/7 - Katmoda 12/Texture 42.png
+57363215048ffd3a-3bfdb8c88ee02821-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 43.png
+57363215048ffd3a-3bfdb8c88ee02821-00005553 = In Game/Tracks/7 - Katmoda 12/Texture 43.png
+2834b0d62d254b6d-156620f2faea6644-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 44.png
+2834b0d62d254b6d-156620f2faea6644-00005553 = In Game/Tracks/7 - Katmoda 12/Texture 44.png
+96f0845525b770bc-28fab69f16b2c2fd-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 45.png
+2e558e2f99812580-bc302bdd08cd36e3-00001553 = In Game/Tracks/7 - Katmoda 12/Texture 46.png
+eff86f58332ca6a6-72fe5c97aa427a34-000015d3 = In Game/Tracks/7 - Katmoda 12/Texture 47.png
+6a9acc1a15e9e218-c910a81650ed0343-00005dd3 = In Game/Tracks/7 - Katmoda 12/Texture 48.png
+a31b74b06c8b1403-3c6555ff09af3c49-00005dd3 = In Game/Tracks/7 - Katmoda 12/Texture 49.png
+# European Version #
+20d37ee02e9fcdbb-7b36e1be12758cf9-00001993 = In Game/Tracks/7 - Katmoda 12/Texture 36.png
+20d37ee02e9fcdbb-7b36e1be12758cf9-00005993 = In Game/Tracks/7 - Katmoda 12/Texture 36.png
+679bd6fd3feb7750-80e9ffd027319f2-000059d3 = In Game/Tracks/7 - Katmoda 12/Texture 50.png
+
+ # In Game > Tracks > Devilia (Novon)
+92beff9e2caf9de1-2f184aac27b4b094-00001dd3 = In Game/Tracks/8 - Devilia/Skybox 1.png
+52b7b5961eadd156-d363851f043c549-00001dd3 = In Game/Tracks/8 - Devilia/Skybox 2.png
+3b26b55a5e4b5488-5bdc3d7b20e2375f-00001dd3 = In Game/Tracks/8 - Devilia/Texture 01.png
+a41e6be3caa64f8d-129659e093d929fb-00001dd3 = In Game/Tracks/8 - Devilia/Texture 02.png
+f066994b442d48bc-b46d108185576074-00001dd3 = In Game/Tracks/8 - Devilia/Texture 03.png
+8e8eb5ec680de0eb-5966b85a88aacfc1-00001dd3 = In Game/Tracks/8 - Devilia/Texture 04.png
+fc8f3cee18a6b75b-1a9a12cbc47add99-00001dd3 = In Game/Tracks/8 - Devilia/Texture 05.png
+19efecbee15aa268-cf6e2de762bb88ae-00001dd3 = In Game/Tracks/8 - Devilia/Texture 06.png
+28770111309990ca-cbb5a6ac3ddd470-00001dd3 = In Game/Tracks/8 - Devilia/Texture 07.png
+873b51fba02d6d4d-5a7afa0410151323-00001dd3 = In Game/Tracks/8 - Devilia/Texture 08.png
+52775964c3e791c9-4fc3e010618a67a6-00001dd3 = In Game/Tracks/8 - Devilia/Texture 09.png
+2d8b78d8e8cc7fbf-d0a3cc438da3e9b9-00001dd3 = In Game/Tracks/8 - Devilia/Texture 10.png
+32ebe0688bec861d-4ff9c15c674c1610-000019d3 = In Game/Tracks/8 - Devilia/Texture 11.png
+d2df9000b97fa732-30da65e9202e124f-00001dd3 = In Game/Tracks/8 - Devilia/Texture 12.png
+7759e788e4a72576-3bcb9aa02c2ba35f-00001dd3 = In Game/Tracks/8 - Devilia/Texture 13.png
+647d7198b6c68eca-8ea44220da47acb9-00001dd3 = In Game/Tracks/8 - Devilia/Texture 14.png
+c14d96ebcb81fbab-d844cc7aa54a897b-00001993 = In Game/Tracks/8 - Devilia/Texture 15.png
+86312b0558575f9d-2074e5e3d6db001-00001993 = In Game/Tracks/8 - Devilia/Texture 16.png
+eafbe509f8cd61d-d73691ae4b28ff54-00001993 = In Game/Tracks/8 - Devilia/Texture 17.png
+d768a99946347d0-2b2d7861875adb9c-00001993 = In Game/Tracks/8 - Devilia/Texture 18.png
+81b484c386868c89-f6a3f419ce26353b-00001dd3 = In Game/Tracks/8 - Devilia/Texture 19.png
+e8b68fccfbdae633-1a330df3e3ad8531-00001dd3 = In Game/Tracks/8 - Devilia/Texture 20.png
+6840c861e11d2cc-e1d1468daf3f6967-00001dd3 = In Game/Tracks/8 - Devilia/Texture 21.png
+3346bb7324eb5767-1b30815770da444d-00001dd3 = In Game/Tracks/8 - Devilia/Texture 22.png
+23ba3c10475e0fdc-488bea82f34dca96-00001dd3 = In Game/Tracks/8 - Devilia/Texture 23.png
+339901ce9ef69010-185331339a80b6f9-00001dd3 = In Game/Tracks/8 - Devilia/Texture 24.png
+3ef41c8f3835b58d-5460862e6dc88df3-00001dd3 = In Game/Tracks/8 - Devilia/Texture 25.png
+da1dd8c39a42a3e3-f4f0aa77feace4ab-00001dd3 = In Game/Tracks/8 - Devilia/Texture 26.png
+76203c8cdb5f1f5-f912dfd886f3794e-00001dd3 = In Game/Tracks/8 - Devilia/Texture 27.png
+f0797c2f534213a8-db8ffb6dc3d6bb4-00001dd3 = In Game/Tracks/8 - Devilia/Texture 28.png
+4967d6256730c808-f3697e3003f6db9c-000019d3 = In Game/Tracks/8 - Devilia/Texture 29.png
+159598fe1858b793-d000b2bfe5cdcce0-000019d3 = In Game/Tracks/8 - Devilia/Texture 30.png
+5c52daff37263a41-49ed721a91a96ebd-00001993 = In Game/Tracks/8 - Devilia/Texture 31.png
+a019ac4eb805a88e-c9d3d4143ea26e25-00001993 = In Game/Tracks/8 - Devilia/Texture 32.png
+f55960604b2c58be-330c3c7ec70c736a-00001993 = In Game/Tracks/8 - Devilia/Texture 33.png
+1d40f53e67564230-19ebf32dd26c2a98-00001993 = In Game/Tracks/8 - Devilia/Texture 34.png
+8b82ede300dc3d43-2d2c2d378735ee21-00001993 = In Game/Tracks/8 - Devilia/Texture 35.png
+25546d68daf0f672-205caf93968d1039-00001993 = In Game/Tracks/8 - Devilia/Texture 36.png
+bc7ec4162dd28e63-ae988cdd6d89224-00001993 = In Game/Tracks/8 - Devilia/Texture 37.png
+c397a8b6f660a789-b7e8c29d8da764f9-00001993 = In Game/Tracks/8 - Devilia/Texture 38.png
+836747c7fa92995b-f7bfe4a1f5363652-00001993 = In Game/Tracks/8 - Devilia/Texture 39.png
+37a76005908550fb-831910a5d44ffaa3-00001993 = In Game/Tracks/8 - Devilia/Texture 40.png
+52b6d59a6b55cf90-2f8482bb224e65ff-00001993 = In Game/Tracks/8 - Devilia/Texture 41.png
+527fc4295ad5fe2f-4e718e1622073445-00001993 = In Game/Tracks/8 - Devilia/Texture 42.png
+a17647b156835c90-32e95af544cfa835-00001993 = In Game/Tracks/8 - Devilia/Texture 43.png
+7281ab79179c7e33-3e4909867313e781-00001993 = In Game/Tracks/8 - Devilia/Texture 44.png
+7281ab79179c7e33-3e4909867313e781-00005993 = In Game/Tracks/8 - Devilia/Texture 44.png
+e17b6f413896b517-ebb5b5b0e015540c-00001993 = In Game/Tracks/8 - Devilia/Texture 45.png
+e0b5c8ca54ee999c-5474fc28c397ffa8-00001993 = In Game/Tracks/8 - Devilia/Texture 46.png
+e0b5c8ca54ee999c-5474fc28c397ffa8-00005993 = In Game/Tracks/8 - Devilia/Texture 46.png
+18d9e80262ab2519-f798b02c6171b69f-00001993 = In Game/Tracks/8 - Devilia/Texture 47.png
+b2f622de7adfd313-d9475933d410d17b-00001993 = In Game/Tracks/8 - Devilia/Texture 48.png
+5d95e4250f077f68-749b098abf90f2d5-00001993 = In Game/Tracks/8 - Devilia/Texture 49.png
+f38fee37996c0fd0-254483434b85c9ab-00001993 = In Game/Tracks/8 - Devilia/Texture 50.png
+fadf6bb03586a3f6-31d9c050c42f95dd-00001993 = In Game/Tracks/8 - Devilia/Texture 51.png
+a3e0db06e2a080a6-84b4c760505b998a-00001593 = In Game/Tracks/8 - Devilia/Texture 52.png
+a5c0fcb1ee3e760a-b0b412fc0d9a2c8c-00001553 = In Game/Tracks/8 - Devilia/Texture 53.png
+78dd1ab50d9240af-6d832954883acb1f-00001553 = In Game/Tracks/8 - Devilia/Texture 54.png
+ebc7605ace60e3d7-45e9993367d76ad1-00001553 = In Game/Tracks/8 - Devilia/Texture 55.png
+c06fc863b8900edd-43a3937922d6a788-00005553 = In Game/Tracks/8 - Devilia/Texture 56.png
+770577b24878f7e-dce2af6b6c312026-00006213 = In Game/Tracks/8 - Devilia/Texture 57.png
+15d66ed509a9c585-2daaa307d794af48-00001dd3 = In Game/Tracks/8 - Devilia/Texture 58.png
+15d66ed509a9c585-2daaa307d794af48-00005dd3 = In Game/Tracks/8 - Devilia/Texture 58.png
+
+
+
+ # In Game > Ships > FEISAR
+79e63418bdc7ddaf-17bd076cd71c0048-00005dd3 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture 1.png
+1dabb6ba3f71009d-ac0c49d2e9d9548b-00005dd3 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture 2.png
+e47622e01ba746a3-e91c227c27b93f77-00005dd3 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture 3.png
+f8ea899463a8c467-ac4b9fac3441d33f-00005dd3 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture 4.png
+2b16d03a1107edc6-789652bef87c8c4b-00005dd3 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture 5.png
+24a6c8ceb5347259-11c6dd64693a0ffb-00005dd3 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture 6.png
+f6bd191b3a6ff834-1a363e367acfe2bc-00005993 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture LOD.png
+b42e50484e30fb2-b0506c04ccb03855-00005993 = In Game/Ships/1 - FEISAR/1 - LS-59101 (Vector)/Texture Shadow.png
+4a764c37d561d6ab-7198ff564217a959-00005dd3 = In Game/Ships/1 - FEISAR/2 - LS-59240 (Venom)/Texture 1.png
+9c0a0b652cd203cc-7bbaf99937dc803f-00005993 = In Game/Ships/1 - FEISAR/2 - LS-59240 (Venom)/Texture LOD.png
+7a3f1e1fc0b0a54c-ea3c57268e7f3e97-00005993 = In Game/Ships/1 - FEISAR/2 - LS-59240 (Venom)/Texture Shadow.png
+f142d56cc4277c5d-6de23a2afe0a7705-00005dd3 = In Game/Ships/1 - FEISAR/3 - LS-59307 (Rapier)/Texture 1.png
+3e58228adc950f34-927829c2272e779e-00005dd3 = In Game/Ships/1 - FEISAR/3 - LS-59307 (Rapier)/Texture 2.png
+a0cf36954de4fb1b-757e65140f25ffc9-00005dd3 = In Game/Ships/1 - FEISAR/3 - LS-59307 (Rapier)/Texture 3.png
+e95eb8c6373f5087-111ac6688554b2d4-00005993 = In Game/Ships/1 - FEISAR/3 - LS-59307 (Rapier)/Texture LOD.png
+95f1313362630cd8-b1e578565dd8da77-00005993 = In Game/Ships/1 - FEISAR/3 - LS-59307 (Rapier)/Texture Shadow.png
+996ed5e9501b2170-1a30f837e2532bb6-00005dd3 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture 1.png
+83300558ff2fda3d-24d0538c5c779ef1-00005dd3 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture 2.png
+656ec7938735ed8b-284534b5645428cd-00005dd3 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture 3.png
+bcf4b12575491709-6080d177224cfdce-00005dd3 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture 4.png
+16e734f6ab456a34-e9c5357a83c3807d-00005dd3 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture 5.png
+910a6244f86517f3-b1bd1db7b7bb2be-00005993 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture LOD.png
+7a93f101b22c8d89-3fd181d770e0eacd-00005993 = In Game/Ships/1 - FEISAR/4 - LS-59400 (Proto)/Texture Shadow.png
+a06888a9fc299af9-ac126fe43f0d58a7-00005dd3 = In Game/Ships/1 - FEISAR/Pilot Standard.png
+2d3bdd039cf387e9-5cc03a3b3f0c7459-00005dd3 = In Game/Ships/1 - FEISAR/Pilot Alternative.png
+
+ # In Game > Ships > Van-Uber Racing Development
+a50b1b10a327da0d-97c0c0ff605fbe0f-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 1.png
+fad85d5ed36190d9-d369b3ee70c1ef05-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 2.png
+e899bfa66898e24-9fe55ea17ee2a8f4-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 3.png
+d4ec4884f19caa88-54c90b94e402aac9-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 4.png
+ade8251e0cb711c8-6d1310b00b1dd640-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 5.png
+72581fa17daad73d-e2b7d774be85ec8d-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 6.png
+dfbc1796c84a4b86-c7e887bcece02bc-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture 7.png
+765cd45ae15365b0-7e03e8500c4a5136-00005993 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture LOD.png
+df1328d63e7a6c8b-7a6fd81353bee2c3-00005993 = In Game/Ships/2 - Van-Uber Racing Development/1 - ZR-320 Mk 2000 (Vector)/Texture Shadow.png
+5be245c8a74bdbaf-b6590eba99ffa11c-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/2 - ZR-320 Mk 3000 (Venom)/Texture 1.png
+cf3d95169addc9c1-e2332333907b5ea8-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/2 - ZR-320 Mk 3000 (Venom)/Texture 2.png
+835e22f4eb47d987-213cf46dcafea0f5-00005993 = In Game/Ships/2 - Van-Uber Racing Development/2 - ZR-320 Mk 3000 (Venom)/Texture LOD.png
+f54ad1dabf596584-234a8eaeddd3b529-00005993 = In Game/Ships/2 - Van-Uber Racing Development/2 - ZR-320 Mk 3000 (Venom)/Texture Shadow.png
+3c7c48f5fae6eb70-1be95cbd5acc5a60-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture 1.png
+570a8414b3d4c5a6-efaddc4ab70a084d-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture 2.png
+d39eefc0419da6b1-a42baa4868d2c46a-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture 3.png
+e11f437662b465d-b3a49eeb9109d113-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture 4.png
+574af8794711652a-5bcdbccb288f8d6b-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture 5.png
+ed623fd416cf2579-f33c93a5fa570935-00005993 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture LOD.png
+60dc26bea4cd04ea-da98b1c13cd097cc-00005993 = In Game/Ships/2 - Van-Uber Racing Development/3 - ZR-320 Mk 4000 (Rapier)/Texture Shadow.png
+419adf840861dfe9-c718baecaed29431-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 1.png
+801d348987b216ef-27463e88b0988ca9-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 2.png
+9b4876625e007a75-2cddd8d6dbf96f04-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 3.png
+e09ccd61c3c164d1-5fe7d9d171d49909-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 4.png
+c7a5d5c06dedd713-9684c829540e3767-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 5.png
+9dcb8a1d1fddf82a-3aaf4a7220760cdf-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 6.png
+7152eb8ab2cfdeb7-f1592bb3d3a8c0c4-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture 7.png
+eca7fc70aecb67d-62bd6eb178f81a81-00005993 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture LOD.png
+b0e3ea643718fcdd-f7304e0319e51f46-00005993 = In Game/Ships/2 - Van-Uber Racing Development/4 - ZR-320 Mk 5000 (Proto)/Texture Shadow.png
+7612343415a03b0-50fe221f588b9b18-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/Pilot Standard.png
+544054cd6fbb0df4-28238c9e0d3d70d0-00005dd3 = In Game/Ships/2 - Van-Uber Racing Development/Pilot Alternative.png
+
+ # In Game > Ships > G-Tech Systems
+929bc312b1553e6-d2a91556c0f57440-00005dd3 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture 1.png
+cefafce37fa2ee8a-cc1a6e2e21d356f0-00005dd3 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture 2.png
+7a010bf051ef5308-9938a27ecb40ba5b-00005dd3 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture 3.png
+c580e98aae4758d-d7c311e28608899c-00005dd3 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture 4.png
+bdaefbd8e9db7ee1-1aa447f591fabb1d-00005dd3 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture 5.png
+6f1ce78a78a9ca00-a66f13fcb8e27c95-00005dd3 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture 6.png
+768359ad893e89e6-6ff921b9c00cc6df-00005993 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture LOD.png
+92e864e2372d98bc-9da69b18ccad00c9-00005993 = In Game/Ships/3 - G-Tech Systems/1 - G-4 Revver (Vector)/Texture Shadow.png
+686506e8960d84f-98b42a3bad909dc8-00005dd3 = In Game/Ships/3 - G-Tech Systems/2 - R-4 Revver (Venom)/Texture 1.png
+b3d52ff72504dd0c-fff44229ad0d7dd5-00005dd3 = In Game/Ships/3 - G-Tech Systems/2 - R-4 Revver (Venom)/Texture 2.png
+1ed288227c64b2b4-9d4c94f7ccab5e62-00005dd3 = In Game/Ships/3 - G-Tech Systems/2 - R-4 Revver (Venom)/Texture 3.png
+ff08e40456c1cd6f-9097b91df0df4a3e-00005dd3 = In Game/Ships/3 - G-Tech Systems/2 - R-4 Revver (Venom)/Texture 4.png
+4aac83a7451cf2e8-e2df0f77bf1786b-00005993 = In Game/Ships/3 - G-Tech Systems/2 - R-4 Revver (Venom)/Texture LOD.png
+84ffd768f0c7c6a1-d33c91b06bc1ab3d-00005993 = In Game/Ships/3 - G-Tech Systems/2 - R-4 Revver (Venom)/Texture Shadow.png
+8b7059cfae240d04-aac4d30896f0d2e7-00005dd3 = In Game/Ships/3 - G-Tech Systems/3 - D-4 Revver (Rapier)/Texture 1.png
+fb435e8e31b5d1c9-3ec75c7db37b1f4c-00005dd3 = In Game/Ships/3 - G-Tech Systems/3 - D-4 Revver (Rapier)/Texture 2.png
+11c344b9239123d-f947c8b515794f5a-00005993 = In Game/Ships/3 - G-Tech Systems/3 - D-4 Revver (Rapier)/Texture LOD.png
+e893f98cbfb02497-8d96e1640e4e0950-00005993 = In Game/Ships/3 - G-Tech Systems/3 - D-4 Revver (Rapier)/Texture Shadow.png
+df94257fe86e64c-15ff66759d65a86a-00005dd3 = In Game/Ships/3 - G-Tech Systems/4 - V-4 Revver (Proto)/Texture 1.png
+cea57d80e58ddcfe-27efec0da3d208d0-00005dd3 = In Game/Ships/3 - G-Tech Systems/4 - V-4 Revver (Proto)/Texture 2.png
+feb5b65b3cb3062a-37eab5e6df05a577-00005dd3 = In Game/Ships/3 - G-Tech Systems/4 - V-4 Revver (Proto)/Texture 3.png
+ae791ed426182658-392b142e62438499-00005dd3 = In Game/Ships/3 - G-Tech Systems/4 - V-4 Revver (Proto)/Texture 4.png
+3749e6360ca14c81-b15dd161043a4b0d-00005993 = In Game/Ships/3 - G-Tech Systems/4 - V-4 Revver (Proto)/Texture LOD.png
+a1cc9bd6433d6cd4-56812ac4d9be0c2d-00005993 = In Game/Ships/3 - G-Tech Systems/4 - V-4 Revver (Proto)/Texture Shadow.png
+d6b282c272d7ed37-db3c636b7e0044a5-00005dd3 = In Game/Ships/3 - G-Tech Systems/Pilot Standard.png
+f259f93a414506d6-1d48dd03b7868a1a-00005dd3 = In Game/Ships/3 - G-Tech Systems/Pilot Alternative.png
+
+ # In Game > Ships > Auricom Research Industries
+8d42bfa9210a5c8-53979ac93c8d4e9b-00005dd3 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture 1.png
+a9b571865d6e434a-ec9451777118da3c-00005dd3 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture 2.png
+2fc1a91559210bc9-338d42dcfe5013fb-00005dd3 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture 3.png
+6457b4cfe9450533-bd633242bdafc1c1-00005dd3 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture 4.png
+ead814150100ae54-827dbe51ebee38cc-00005dd3 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture 5.png
+1dd39829c1591f22-bfeb35ed92ccc924-00005dd3 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture 6.png
+b350aca2d0067d7d-39fde826f1e7e696-00005993 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture LOD.png
+e22d76e7e86a7832-311f21cc384b9cd5-00005993 = In Game/Ships/4 - Auricom Research Industries/1 - T-808 Mk 1 (Vector)/Texture Shadow.png
+de222aa57256e517-279b24afe50b623f-00005dd3 = In Game/Ships/4 - Auricom Research Industries/2 - T-808 Mk 2 (Venom)/Texture 1.png
+c4ba8a8e99496736-b31714705d374208-00005993 = In Game/Ships/4 - Auricom Research Industries/2 - T-808 Mk 2 (Venom)/Texture LOD.png
+6788d1f089419706-22684bf0745caf91-00005993 = In Game/Ships/4 - Auricom Research Industries/2 - T-808 Mk 2 (Venom)/Texture Shadow.png
+1b70f04c8278ec6a-30c2482ff603eaf5-00005dd3 = In Game/Ships/4 - Auricom Research Industries/3 - T-808 Mk 3 (Rapier)/Texture 1.png
+f04332bcf9f558f6-46f66c5195a23a95-00005993 = In Game/Ships/4 - Auricom Research Industries/3 - T-808 Mk 3 (Rapier)/Texture LOD.png
+4c9382ff8efae788-2c82b2c0a00904e1-00005993 = In Game/Ships/4 - Auricom Research Industries/3 - T-808 Mk 3 (Rapier)/Texture Shadow.png
+2d277420a4369c87-e86e1d29da213e74-00005dd3 = In Game/Ships/4 - Auricom Research Industries/4 - T-808 Mk 4 (Proto)/Texture 1.png
+f90fe0aa1b9f75af-161755718f431782-00005dd3 = In Game/Ships/4 - Auricom Research Industries/4 - T-808 Mk 4 (Proto)/Texture 2.png
+50f709a27ad0a65c-6486813aea66c5fe-00005dd3 = In Game/Ships/4 - Auricom Research Industries/4 - T-808 Mk 4 (Proto)/Texture 3.png
+6240c0e0cb441ba2-2b33004323adbae9-00005dd3 = In Game/Ships/4 - Auricom Research Industries/4 - T-808 Mk 4 (Proto)/Texture 4.png
+eec1cd21527a7cba-d9822cdd91b8cd1a-00005993 = In Game/Ships/4 - Auricom Research Industries/4 - T-808 Mk 4 (Proto)/Texture LOD.png
+721404668bd2180c-5df0c073e8e5f44a-00005993 = In Game/Ships/4 - Auricom Research Industries/4 - T-808 Mk 4 (Proto)/Texture Shadow.png
+52ef228f6e0f3abf-f86a3a9912ca2984-00005dd3 = In Game/Ships/4 - Auricom Research Industries/Pilot Standard.png
+3b3cd73bbac22098-c3cfb03529c4080a-00005dd3 = In Game/Ships/4 - Auricom Research Industries/Pilot Alternative.png
+
+ # In Game > Ships > EG-R Technologies
+b06d5863c2feafa5-e89f24952013306-00005dd3 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture 1.png
+8be9597fd13ccca2-aa2d2205d7da0735-00005dd3 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture 2.png
+dcc6bd42c4e6c45e-400bfe611adbfeac-00005dd3 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture 3.png
+556917c80d333bd2-682e75cdedb98c78-00005dd3 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture 4.png
+f6f0ae58a9dd2490-474890ce139cb4e8-00005dd3 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture 5.png
+352cda7ff930173-615362960629120b-00005dd3 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture 6.png
+6abf24e523740fe0-8d5de78253e98464-00005993 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture LOD.png
+e6999da400d6c995-b9bfb9a3e3f4a6b4-00005993 = In Game/Ships/5 - EG-R Technologies/1 - EG-4101 (Vector)/Texture Shadow.png
+d4d531837225e040-a541d74c763abecb-00005993 = In Game/Ships/5 - EG-R Technologies/2 - EG-4201 (Venom)/Texture LOD.png
+f26f29b1050eb9b2-f5641c5d2393ebae-00005993 = In Game/Ships/5 - EG-R Technologies/2 - EG-4201 (Venom)/Texture Shadow.png
+392f1e8719bbc926-69f2172012f6b52d-00005dd3 = In Game/Ships/5 - EG-R Technologies/3 - EG-4303 (Rapier)/Texture 1.png
+783604091810195f-324443f8c06c5db1-00005993 = In Game/Ships/5 - EG-R Technologies/3 - EG-4303 (Rapier)/Texture LOD.png
+8a80885794d439f6-b7926025562b886b-00005993 = In Game/Ships/5 - EG-R Technologies/3 - EG-4303 (Rapier)/Texture Shadow.png
+57effc28ec56ae83-99aa835b104e325b-00005dd3 = In Game/Ships/5 - EG-R Technologies/4 - EG-4402 (Proto)/Texture 1.png
+4c259a3bc4bb2558-caffb51c358b80d8-00005dd3 = In Game/Ships/5 - EG-R Technologies/4 - EG-4402 (Proto)/Texture 2.png
+514e542b33f0bf1f-1a354cfb65f60a34-00005dd3 = In Game/Ships/5 - EG-R Technologies/4 - EG-4402 (Proto)/Texture 3.png
+1f52d6d08ed0723-7b37c43f110efd04-00005dd3 = In Game/Ships/5 - EG-R Technologies/4 - EG-4402 (Proto)/Texture 4.png
+f9c9cc24575ed645-721df9b7810cdc9-00005993 = In Game/Ships/5 - EG-R Technologies/4 - EG-4402 (Proto)/Texture LOD.png
+8dede70b9c6c71a7-4df6eac2ca803036-00005993 = In Game/Ships/5 - EG-R Technologies/4 - EG-4402 (Proto)/Texture Shadow.png
+507c2953cf0f6bf0-839fe334f97508e0-00005dd3 = In Game/Ships/5 - EG-R Technologies/Pilot Standard.png
+f05c9205f94c65fb-afcc09bf581817b0-00005dd3 = In Game/Ships/5 - EG-R Technologies/Pilot Alternative.png
+
+ # In Game > Ships > Tigron Enterprises
+adb9ba08add3de14-69eb2dce93d3fcdb-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 1.png
+abd86d96ac8a5fb2-fa61b854c0f20277-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 2.png
+a4bad12183572603-846f14067741748b-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 3.png
+5f4b1de62bed384-e364bcd8fd765d9b-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 4.png
+bb068e608e054c-1836efba1714f4c7-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 5.png
+7108675d5542c97d-b335f8154f8a354-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 6.png
+7c3b9e513bff4e9c-805a8cee5395bebe-00005dd3 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture 7.png
+e81da0c9f63363d0-625eb74daadfc336-00005993 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture LOD.png
+e9d66ab7194a8e7c-23ee5036fecc9f68-00005993 = In Game/Ships/6 - Tigron Enterprises/1 - Bull-666 v1.1 (Vector)/Texture Shadow.png
+6fbce4e4fe5ab625-77c66f714678af43-00005dd3 = In Game/Ships/6 - Tigron Enterprises/2 - Bull-666 v2.0 (Venom)/Texture 1.png
+d3ff12a2bba42643-b9bcac2c21fc8a7-00005dd3 = In Game/Ships/6 - Tigron Enterprises/2 - Bull-666 v2.0 (Venom)/Texture 2.png
+a365b92ab3295a83-3db668ff8912f71d-00005dd3 = In Game/Ships/6 - Tigron Enterprises/2 - Bull-666 v2.0 (Venom)/Texture 3.png
+9f81278a87bd93b6-8d4fcfd92b402fde-00005dd3 = In Game/Ships/6 - Tigron Enterprises/2 - Bull-666 v2.0 (Venom)/Texture 4.png
+fbd05c6ae608da1e-d137a33766d8f1a6-00005993 = In Game/Ships/6 - Tigron Enterprises/2 - Bull-666 v2.0 (Venom)/Texture LOD.png
+8f0b9adf916794fd-d8e7795c04741067-00005993 = In Game/Ships/6 - Tigron Enterprises/2 - Bull-666 v2.0 (Venom)/Texture Shadow.png
+5dcab7918c76298c-b1eca705d17bb904-00005dd3 = In Game/Ships/6 - Tigron Enterprises/3 - Bull-666 v3.1 (Rapier)/Texture 1.png
+52419eba1a60583e-c8b44738ddbbeae1-00005dd3 = In Game/Ships/6 - Tigron Enterprises/3 - Bull-666 v3.1 (Rapier)/Texture 2.png
+2d603a24b89db930-648609d7686a9d0c-00005dd3 = In Game/Ships/6 - Tigron Enterprises/3 - Bull-666 v3.1 (Rapier)/Texture 3.png
+888df88cde58fd91-8a638592f685730d-00005dd3 = In Game/Ships/6 - Tigron Enterprises/3 - Bull-666 v3.1 (Rapier)/Texture 4.png
+29bfc378848eacaa-f7f1100b71ff2d71-00005993 = In Game/Ships/6 - Tigron Enterprises/3 - Bull-666 v3.1 (Rapier)/Texture LOD.png
+98d7d2cd1a953092-c617b1b745074dcc-00005993 = In Game/Ships/6 - Tigron Enterprises/3 - Bull-666 v3.1 (Rapier)/Texture Shadow.png
+73eaaf4fe31e0315-7426ad7867b0b598-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 1.png
+cce6c596ecd2d985-5b4e312277f19c3c-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 2.png
+95ae772e37a47c4a-25b9ac2ff6a660db-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 3.png
+7cbc46096212fdd2-cf63e48f9e5f532e-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 4.png
+9fe56c9bd12adedb-ea05628b14e8c3a3-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 5.png
+3b5a38084e7dd96b-6055242ae630b1e6-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 6.png
+5c0d9ff8cee9947d-c8cf6faedcf61426-00005dd3 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture 7.png
+a21c75bab3f80c0e-4c19eddd3afa4022-00005993 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture LOD.png
+3e543afe1e93b245-46f6a43f1ca39efb-00005993 = In Game/Ships/6 - Tigron Enterprises/4 - Bull-666 v4.1 (Proto)/Texture Shadow.png
+f1ee1229b0560636-d903cd5afe08a157-00005dd3 = In Game/Ships/6 - Tigron Enterprises/Pilot Standard.png
+c6843f0c54b4d315-bd46b97f465bfb78-00005dd3 = In Game/Ships/6 - Tigron Enterprises/Pilot Alternative.png
+
+ # In Game > Ships > Xios International
+d3d10f2991e99ac5-9e6c0d0ac39ab0a5-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 1.png
+bcc833f19c62a093-e6f5bcb145e06567-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 2.png
+c40be96a7125639e-34ca1cce32c4e50-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 3.png
+d7832ab566325ccf-945020ebe04591b9-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 4.png
+e1f537a1b44c5abe-3f1f6af84cebdc43-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 5.png
+e55ca511328e25e1-f55497b0bb15b6ce-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 6.png
+87afc4b92877e5dd-8797acb0c442b8da-00005dd3 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture 7.png
+ffdf356bc1d255c7-c22334b0e45072c2-00005993 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture LOD.png
+fc1e88f3bd2b06a0-a6cf13de83024f9f-00005993 = In Game/Ships/7 - Xios International/1 - SMF-X I (Vector)/Texture Shadow.png
+644954150e47e604-82ab3631f7420dc4-00005dd3 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture 1.png
+810558265be92180-a2aa0d0c82b361cb-00005dd3 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture 2.png
+9807cfe87c7dd466-8899835f6bdbf3c3-00005dd3 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture 3.png
+aaa037afcc761fa9-3172e31674ff0abe-00005dd3 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture 4.png
+96103eed4ee96337-b5271549d5dafbb0-00005dd3 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture 5.png
+8a985e7cf02e2385-d2fb4064dce52429-00005993 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture LOD.png
+fed0ec279361e697-8c2a304335e11b99-00005993 = In Game/Ships/7 - Xios International/2 - SMF-X II (Venom)/Texture Shadow.png
+19186ce54bd3e2eb-7b4dd9be59f8f408-00005dd3 = In Game/Ships/7 - Xios International/3 - SMF-X III (Rapier)/Texture 1.png
+1ddbd93e5d5da6f-a0031028aed1be13-00005dd3 = In Game/Ships/7 - Xios International/3 - SMF-X III (Rapier)/Texture 2.png
+9981c3b0f2890624-f66b441233477189-00005dd3 = In Game/Ships/7 - Xios International/3 - SMF-X III (Rapier)/Texture 3.png
+7ecfb7b0815af17a-6b10ee707e13e6ac-00005993 = In Game/Ships/7 - Xios International/3 - SMF-X III (Rapier)/Texture LOD.png
+8248990605d5d712-642e0e99e654b4c7-00005993 = In Game/Ships/7 - Xios International/3 - SMF-X III (Rapier)/Texture Shadow.png
+6bbf6823c3f2c0db-a94ee3602b98acd3-00005dd3 = In Game/Ships/7 - Xios International/4 - SMF-X IV (Proto)/Texture 1.png
+7565d8e16a55e8a6-83ed4996c4e4495d-00005dd3 = In Game/Ships/7 - Xios International/4 - SMF-X IV (Proto)/Texture 2.png
+cf3627cc04d02c1f-85e9dce21576332-00005dd3 = In Game/Ships/7 - Xios International/4 - SMF-X IV (Proto)/Texture 3.png
+a987b333f3036576-d8e0a038a5f4ed77-00005dd3 = In Game/Ships/7 - Xios International/4 - SMF-X IV (Proto)/Texture 4.png
+f2c6803f3d9b3819-32814aa786f8d858-00005993 = In Game/Ships/7 - Xios International/4 - SMF-X IV (Proto)/Texture LOD.png
+e4f478e73c23f57d-1b094b96099447f5-00005993 = In Game/Ships/7 - Xios International/4 - SMF-X IV (Proto)/Texture Shadow.png
+441b7f4eb53fd9a1-ae699e62bbacee8d-00005dd3 = In Game/Ships/7 - Xios International/Pilot Standard.png
+de17f4b2c8944f28-8564f7cc6902c5d3-00005dd3 = In Game/Ships/7 - Xios International/Pilot Alternative.png
+
+ # In Game > Ships > Piranha Advancements
+27f85b4858312fd6-5c7f8ce2589ca65f-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 1.png
+411355e6cd02151e-61595ecd7d39f5b2-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 2.png
+e9ca3b8e450bc403-b2c084a6d3ba8afd-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 3.png
+ab2a0635978f8e42-d617b2b85ded6368-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 4.png
+d8c6f1bf87ac3062-33ee039874efcba4-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 5.png
+29fdbd2bbb242679-807916f84ebb9e36-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 6.png
+4c83b4d678180220-c213262e30258f67-00005dd3 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture 7.png
+f7ec7dc2cdd1dcdd-6909fe9304b166b1-00005993 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture LOD.png
+3f3ed097635bdbda-c1a2dbc2dd4dbe1-00005993 = In Game/Ships/8 - Piranha Advancements/1 - Swiftkiller 4.2 (Vector)/Texture Shadow.png
+a0f6f87b6e139e0c-d9b8570f17040fe9-00005dd3 = In Game/Ships/8 - Piranha Advancements/2 - Swiftkiller 5.1 (Venom)/Texture 1.png
+c21034c449505db9-d37c570b47f61b08-00005993 = In Game/Ships/8 - Piranha Advancements/2 - Swiftkiller 5.1 (Venom)/Texture LOD.png
+4827fd23f8a6d0bb-52cee1149833a0c0-00005993 = In Game/Ships/8 - Piranha Advancements/2 - Swiftkiller 5.1 (Venom)/Texture Shadow.png
+242e6c6e62d93085-672a28da5d258b2d-00005dd3 = In Game/Ships/8 - Piranha Advancements/3 - Swiftkiller 6.0 (Rapier)/Texture 1.png
+7c614001b675fde-cd0497f29eef3b2c-00005dd3 = In Game/Ships/8 - Piranha Advancements/3 - Swiftkiller 6.0 (Rapier)/Texture 2.png
+d3453392ea79803d-21d9704e556c67ee-00005993 = In Game/Ships/8 - Piranha Advancements/3 - Swiftkiller 6.0 (Rapier)/Texture LOD.png
+fa94b2e4612b31e5-33b0c34668eb374f-00005993 = In Game/Ships/8 - Piranha Advancements/3 - Swiftkiller 6.0 (Rapier)/Texture Shadow.png
+2bbcc625d3a4a8c1-70369e884cb55640-00005dd3 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture 1.png
+5ab4d48cf8545caa-405b7d336a16d449-00005dd3 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture 2.png
+1631aba60421276c-3fb0b8e171d09429-00005dd3 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture 3.png
+e9a6fb30d02655ba-33f63a6f615ab036-00005dd3 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture 4.png
+aa8511a5a0b1a777-5160bf83decc2229-00005dd3 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture 5.png
+e413f4515d7f359e-644ef9bdd27f76a7-00005dd3 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture 6.png
+42e2826b503cb0f9-c45ec426bd9e6c0c-00005993 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture LOD.png
+e0b1db76b1a70080-17ac16bbe6e8656-00005993 = In Game/Ships/8 - Piranha Advancements/4 - Swiftkiller X (Proto)/Texture Shadow.png
+1d7d1c548b0406e2-e6f8fca5e52d7d1a-00005dd3 = In Game/Ships/8 - Piranha Advancements/Pilot Standard.png
+233a26e9c6f4d842-b15df5dea740e8d-00005dd3 = In Game/Ships/8 - Piranha Advancements/Pilot Alternative.png
+
+ # In Game > Ships > Zone (F9000 Anti-Gravity Racing)
+91a9cfa54668e734-f8b11335206ea041-00005dd3 = In Game/Ships/9 - Zone/Texture 1.png
+599311045a497eeb-29c1a5957a0127b8-00005dd3 = In Game/Ships/9 - Zone/Texture 2.png
+96fea15f88253132-3586319d0a28d78-00005dd3 = In Game/Ships/9 - Zone/Texture 3.png
+8c6700955bda8857-7ef8e9d44365ba65-00005dd3 = In Game/Ships/9 - Zone/Texture 4.png
+9720569856ecd860-3ae913af12dda07d-00005dd3 = In Game/Ships/9 - Zone/Texture 5.png
+cd8154ba0656bff8-1bbf91682d1ebbe9-00005dd3 = In Game/Ships/9 - Zone/Texture 6.png
+acbf113bc9f743ad-24ae0c6936ad182d-00005dd3 = In Game/Ships/9 - Zone/Texture 7.png
+7c0f0db41df23b00-ed4565b1de396f88-00005dd3 = In Game/Ships/9 - Zone/Texture 8.png
+
+
+
+ # Main Menu > Controllers
+962fb9f1b5213547-bd38dd209de6ded4-00006213 = Main Menu/Controllers/DualShock 2.png
+86bb2834b8618423-8b463a623412428a-00006213 = Main Menu/Controllers/neGcon.png
+
+ # Main Menu > Icons
+a2b380cd39b1eecd-00005981 = Main Menu/Icons/Spinning Disc.png
+
+ # Main Menu > Icons > Buttons
+38911578070c3ade-616e8e5036ac70af-00005513 = Main Menu/Icons/Buttons/DualShock/Cross.png
+5fe09354a8434ad0-30049ca4f6967577-00005513 = Main Menu/Icons/Buttons/DualShock/Circle.png
+9c8b72666da9e8cc-9d21e915fa2d0604-00005513 = Main Menu/Icons/Buttons/DualShock/Triangle.png
+a3d5033956b16f74-461cdb58eab38de0-00005513 = Main Menu/Icons/Buttons/neGcon/A.png
+657a3cb36815d2b7-68f3538d92b31172-00005513 = Main Menu/Icons/Buttons/neGcon/B.png
+7e2de3a20773fb79-1222f9e145fe9860-00005513 = Main Menu/Icons/Buttons/neGcon/I.png
+
+ # Main Menu > Icons > Cheats
+d41713f8de666ba3-ed999fc486754d0b-00005dd3 = Main Menu/Icons/Cheats/Cross.png
+778527ca0d7d1c55-c046345106007156-00005dd3 = Main Menu/Icons/Cheats/Square.png
+1f8439d7ce18e044-7177624bbb006125-00005dd3 = Main Menu/Icons/Cheats/Circle.png
+9f7cc56d49b92648-8d17171767b55e48-00005dd3 = Main Menu/Icons/Cheats/Triangle.png
+
+ # Main Menu > Icons > Leagues
+4d766e6042032531-e731332f66dc9af2-00005993 = Main Menu/Icons/Leagues/01 - Chronos League.png
+b3d75b82742225e8-58f56e77f648ee8c-00005993 = Main Menu/Icons/Leagues/02 - Rhea League.png
+89b7ed057e2d1e91-898e6805a5c39ae1-00005993 = Main Menu/Icons/Leagues/03 - Oceanus League.png
+f86cff547c39e186-49e6d0ee3cc6c25-00005993 = Main Menu/Icons/Leagues/04 - Tethys League.png
+b1f3a64cf61cc391-d36c8906f9a7e8df-00005993 = Main Menu/Icons/Leagues/05 - Hyperion League.png
+ce530599ba4b0e97-1fef4acb1baa8561-00005993 = Main Menu/Icons/Leagues/06 - Themis League.png
+a3a48be8d0505496-522ccc96d97310d-00005993 = Main Menu/Icons/Leagues/07 - Lapetus League.png
+f36db29254b34d2f-3713f19a279ad022-00005993 = Main Menu/Icons/Leagues/08 - Crius League.png
+b9dcbb06112bbd2-72d0d02a78bfc9db-00005993 = Main Menu/Icons/Leagues/09 - Thea League.png
+ff4ee1ce9fbbd19b-7670edf4684db2fd-00005993 = Main Menu/Icons/Leagues/10 - Metis League.png
+25b63ac38b77d66d-89b7e5395e9e2c3b-00005993 = Main Menu/Icons/Leagues/11 - Custom League.png
+
+ # Main Menu > Icons > Medals
+f3cdbe1f6865f13c-a1633d2b773f58f-00005593 = Main Menu/Icons/Medals/Arcade.png
+f57a174551556111-60194baffd859cc3-00005593 = Main Menu/Icons/Medals/AG League.png
+e64a1e1a2443b038-e9ff414658aebe29-00005593 = Main Menu/Icons/Medals/Challenge.png
+bdd2d5c430c5e657-6640167f09a9ef4a-00005593 = Main Menu/Icons/Medals/Time Trial.png
+3c907af7e7587254-63e0a397f4c98c68-00005593 = Main Menu/Icons/Medals/Zone.png
+628357b7929105db-5acce6007c014cec-00005993 = Main Menu/Icons/Medals/Env/Gold.png
+e290f65cae30655b-db8ed44b1c7c594f-00005993 = Main Menu/Icons/Medals/Env/Silver.png
+f26174808d579224-978380b3d94a23bf-00005993 = Main Menu/Icons/Medals/Env/Bronze.png
+
+
+ # Main Menu > Logos > F9000
+e98f2f6d7ad05c51-4ce19f008700e0a5-00005dd3 = Main Menu/Logos/F9000/F9000 A-G Racing League.png
+364244fb0c1c1ae1-d7398d133f34dfd3-00006213 = Main Menu/Logos/F9000/Super-Weapon Licence.png
+
+ # Main Menu > Logos > Teams
+fef9f0b0d35647be-26cb5a402648ae79-00005dd3 = Main Menu/Logos/Teams/FEISAR.png
+cea8d5da73056693-3304cfa3b7e8becc-00005dd3 = Main Menu/Logos/Teams/Van-Uber Racing Development.png
+114b19b56206029d-147382421ae59961-00005dd3 = Main Menu/Logos/Teams/G-Tech Systems.png
+a8f5316bb98a0b84-6c1234ad17d5f5b6-00005dd3 = Main Menu/Logos/Teams/Auricom Research Industries.png
+6ad5e23e5fb87ec9-2c6d74821b437cc9-00005a13 = Main Menu/Logos/Teams/EG-R Technologies.png
+e6173b2551cd760b-b2018a51e10037e6-00005dd3 = Main Menu/Logos/Teams/Tigron Enterprises.png
+e98a4e1f312c720a-d370d799b9a05868-00005a13 = Main Menu/Logos/Teams/Xios International.png
+f1e0a8a71f58f585-98f7d38c23a476b1-00005dd3 = Main Menu/Logos/Teams/Piranha Advancements.png
+
+
+ # Main Menu > Pilots > Daniel Johnson (Lead Pilot - FEISAR) - League ID: JOHN495.1.1.303 - UK
+2f48d204fe819e8d-529d3c7f65365977-00005dd3 = Main Menu/Pilots/JOHN495.1.1.303/Texture 1.png
+38837a45c918ae6f-1d9ef8071fcb3533-00005dd3 = Main Menu/Pilots/JOHN495.1.1.303/Texture 2.png
+f38453869c2f8194-ef5c5e78fb883f9b-00005dd3 = Main Menu/Pilots/JOHN495.1.1.303/Texture 3.png
+29f04676bfc8e3d2-dbea59ad967bcc1c-00005dd3 = Main Menu/Pilots/JOHN495.1.1.303/Texture 4.png
+
+ # Main Menu > Pilots > Carlos Beneto (Second Pilot - FEISAR) - League ID: BENE103.1.0.303 - Brazil
+5914bf6c088f1e4f-23171373cf42539d-00005dd3 = Main Menu/Pilots/BENE103.1.0.303/Texture 1.png
+5432493f6f6738c6-ba60f3c4c11db98b-00005dd3 = Main Menu/Pilots/BENE103.1.0.303/Texture 2.png
+cb3cb4ab79d9c402-9d4d04c4ae267a43-00005dd3 = Main Menu/Pilots/BENE103.1.0.303/Texture 3.png
+ef91085d75e5e383-4ca00706fd59c77e-00005dd3 = Main Menu/Pilots/BENE103.1.0.303/Texture 4.png
+
+ # Main Menu > Pilots > Songen Grey (Lead Pilot - Van-Uber Racing Development) - League ID: GREY277.1.1.184 - USA
+ca65954757b006b0-355c29dc0c9dec3-00005dd3 = Main Menu/Pilots/GREY277.1.1.184/Texture 1.png
+bde935d17edd65d2-dd9b083a53128c0d-00005dd3 = Main Menu/Pilots/GREY277.1.1.184/Texture 2.png
+a14f8098024c6cea-cb1156fb3cef8df-00005dd3 = Main Menu/Pilots/GREY277.1.1.184/Texture 3.png
+6223ebc1a66fccb3-d7d88928307b6ab7-00005dd3 = Main Menu/Pilots/GREY277.1.1.184/Texture 4.png
+
+ # Main Menu > Pilots > Nami Mishima (Second Pilot - Van-Uber Racing Development) - League ID: MISH364.0.0.184 - Japan
+28fe3dc3579b1a15-f8256dc3406f2e47-00005dd3 = Main Menu/Pilots/MISH364.0.0.184/Texture 1.png
+5d190a4c0e7b9c28-f5e4056607a94747-00005dd3 = Main Menu/Pilots/MISH364.0.0.184/Texture 2.png
+cb9e4c4db4390e69-d6b4baf81866face-00005dd3 = Main Menu/Pilots/MISH364.0.0.184/Texture 3.png
+9eed97e7cd88e856-57bbe25cfff8e9ba-00005dd3 = Main Menu/Pilots/MISH364.0.0.184/Texture 4.png
+
+ # Main Menu > Pilots > Roberto Sergio (Lead Pilot - G-Tech Systems) - League ID: SERG477.1.1.112 - Italia
+b1b163357f3b48f8-c2eea47527addf53-00005dd3 = Main Menu/Pilots/SERG477.1.1.112/Texture 1.png
+eb04bbb32213e0ec-9851eb2288fd4b24-00005dd3 = Main Menu/Pilots/SERG477.1.1.112/Texture 2.png
+62cdf9dbd52f06e3-59199b4a2002ca1b-00005dd3 = Main Menu/Pilots/SERG477.1.1.112/Texture 3.png
+de02cb4a557a3402-6aeafc04a553a2e1-00005dd3 = Main Menu/Pilots/SERG477.1.1.112/Texture 4.png
+
+ # Main Menu > Pilots > Naomi Turner (Second Pilot - G-Tech Systems) - League ID: TURN846.0.0.112 - UK
+cef9dfbf821a1e1e-9efc9654b2d1e369-00005dd3 = Main Menu/Pilots/TURN846.0.0.112/Texture 1.png
+1f5910d34ba32d39-c47aea046fe82694-00005dd3 = Main Menu/Pilots/TURN846.0.0.112/Texture 2.png
+71cefde6116a32ae-c1998bd13aafcf4d-00005dd3 = Main Menu/Pilots/TURN846.0.0.112/Texture 3.png
+
+ # Main Menu > Pilots > Pascale Rouser (Lead Pilot - Auricom Research Industries) - League ID: ROUS319.0.1.526 - Germany
+da9a550f40cb05b1-5dc25a855d9da7d9-00005dd3 = Main Menu/Pilots/ROUS319.0.1.526/Texture 1.png
+2634cc3bca5bf3e5-32f14850b36b7f05-00005dd3 = Main Menu/Pilots/ROUS319.0.1.526/Texture 2.png
+cead87fb95e21777-2f9f27b25f2bd095-00005dd3 = Main Menu/Pilots/ROUS319.0.1.526/Texture 3.png
+da41dab5c165ce16-5384f3a88d776b41-00005dd3 = Main Menu/Pilots/ROUS319.0.1.526/Texture 4.png
+
+ # Main Menu > Pilots > Franco Gonzalez (Second Pilot - Auricom Research Industries) - League ID: GONZ421.1.0.526 - Spain
+9ab792b7dc3a1739-9defa16fd5f2fd58-00005dd3 = Main Menu/Pilots/GONZ421.1.0.526/Texture 1.png
+eb2ff067d0651a97-86f3a67174cd452e-00005dd3 = Main Menu/Pilots/GONZ421.1.0.526/Texture 2.png
+468b978f74596b0e-3612bbc4b4acdb53-00005dd3 = Main Menu/Pilots/GONZ421.1.0.526/Texture 3.png
+273c8441330a8d8-7a0177f9be1de0bb-00005dd3 = Main Menu/Pilots/GONZ421.1.0.526/Texture 4.png
+
+ # Main Menu > Pilots > Paul Cheung (Lead Pilot - EG-R Technologies) - League ID: CHEU552.1.1.777 - Unknown
+c424daf116eb6d5e-465fa49602698a62-00005dd3 = Main Menu/Pilots/CHEU552.1.1.777/Texture 1.png
+aaacf2d4f58723b5-6eb668cf6a28a24-00005dd3 = Main Menu/Pilots/CHEU552.1.1.777/Texture 2.png
+ea12e7f043b051bb-51322a0430c4f7e3-00005dd3 = Main Menu/Pilots/CHEU552.1.1.777/Texture 3.png
+b4dd89bd848fc624-3a727f1abdbe2643-00005dd3 = Main Menu/Pilots/CHEU552.1.1.777/Texture 4.png
+
+ # Main Menu > Pilots > Alex Reece (Second Pilot - EG-R Technologies) - League ID: REEC634.1.0.777 - Unknown
+7f841308aa2a3a15-242c5a1588a2f224-00005dd3 = Main Menu/Pilots/REEC634.1.0.777/Texture 1.png
+6b0fa9604bc7112f-14ce706561a39cae-00005dd3 = Main Menu/Pilots/REEC634.1.0.777/Texture 2.png
+bf163a295299c197-3afe07cf68d8210e-00005dd3 = Main Menu/Pilots/REEC634.1.0.777/Texture 3.png
+a0408db86e243eb9-af7fca581b3bc593-00005dd3 = Main Menu/Pilots/REEC634.1.0.777/Texture 4.png
+
+ # Main Menu > Pilots > Omarr Khumala (Lead Pilot - Tigron Enterprises) - League ID: KHUM234.1.1.491 - South Africa
+686a050449532c06-c2ea42727450227d-00005dd3 = Main Menu/Pilots/KHUM234.1.1.491/Texture 1.png
+69f7c5c6e2bf788b-93d89d418c0f12d7-00005dd3 = Main Menu/Pilots/KHUM234.1.1.491/Texture 2.png
+1685a072802c9c85-a1e92d3460b5181a-00005dd3 = Main Menu/Pilots/KHUM234.1.1.491/Texture 3.png
+
+ # Main Menu > Pilots > Sveta Kirovski (Second Pilot - Tigron Enterprises) - League ID: KIRO666.0.0.491 - USSR
+c8b570ec8c1c966e-24413a3bc9ddd758-00005dd3 = Main Menu/Pilots/KIRO666.0.0.491/Texture 1.png
+10346b42f54d20c3-77b5a69f4bccfb5f-00005dd3 = Main Menu/Pilots/KIRO666.0.0.491/Texture 2.png
+509b89c4985b0220-994ecc255da92277-00005dd3 = Main Menu/Pilots/KIRO666.0.0.491/Texture 3.png
+55d5b15a645bd7c8-6ac961edbeb9aec4-00005dd3 = Main Menu/Pilots/KIRO666.0.0.491/Texture 4.png
+
+ # Main Menu > Pilots > Natasha Belmondo (Lead Pilot - Xios International) - League ID: BELM295.0.1.399 - France
+fd365635efb2281c-bd3b9a485ba410eb-00005dd3 = Main Menu/Pilots/BELM295.0.1.399/Texture 1.png
+96e6ec3b254bee77-88af80f7deb17a9-00005dd3 = Main Menu/Pilots/BELM295.0.1.399/Texture 2.png
+2260695deb678e6f-a6354e82c3099a8e-00005dd3 = Main Menu/Pilots/BELM295.0.1.399/Texture 3.png
+3055735f95a65f8d-423770a8c145ee11-00005dd3 = Main Menu/Pilots/BELM295.0.1.399/Texture 4.png
+
+ # Main Menu > Pilots > Zala Wollf (Second Pilot - Xios International) - League ID: WOLL433.0.0.399 - Austria
+194d7eb25ff9d31e-41a889c9ad066e5f-00005dd3 = Main Menu/Pilots/WOLL433.0.0.399/Texture 1.png
+505b8d4c8b9950ff-e999b87b19c165fa-00005dd3 = Main Menu/Pilots/WOLL433.0.0.399/Texture 2.png
+e98acfa31290ade8-c96ba31f79f5511b-00005dd3 = Main Menu/Pilots/WOLL433.0.0.399/Texture 3.png
+eff7f888b3b12039-b5b3979b5d1badcd-00005dd3 = Main Menu/Pilots/WOLL433.0.0.399/Texture 4.png
+
+ # Main Menu > Pilots > Myima Tsarong (Lead Pilot - Piranha Advancements) - League ID: TSAR036.2.1.800 - Tibet
+deb491eef00ecfe-9a1f8f77253ec495-00005dd3 = Main Menu/Pilots/TSAR036.2.1.800/Texture 1.png
+aba10ccb1df7d25b-8eaba565c917ff84-00005dd3 = Main Menu/Pilots/TSAR036.2.1.800/Texture 2.png
+91b5bdb66f123587-2e6c80c64b9b8032-00005dd3 = Main Menu/Pilots/TSAR036.2.1.800/Texture 3.png
+1c9a2f9ab6cffde9-d85009d8aa201a8-00005dd3 = Main Menu/Pilots/TSAR036.2.1.800/Texture 4.png
+
+ # Main Menu > Pilots > Jann Shlaudecker (Second Pilot - Piranha Advancements) - League ID: SHLA789.1.0.800 - Germany
+14b2d9e229721a61-d077435708bbcf9d-00005dd3 = Main Menu/Pilots/SHLA789.1.0.800/Texture 1.png
+20b5e4894c950d46-76d680b29f7a5fc6-00005dd3 = Main Menu/Pilots/SHLA789.1.0.800/Texture 2.png
+a6ebbcd2c83fdb42-d880a8e44c89cb77-00005dd3 = Main Menu/Pilots/SHLA789.1.0.800/Texture 3.png
+4d3346422f7f6953-4956b2a5b6347aa8-00005dd3 = Main Menu/Pilots/SHLA789.1.0.800/Texture 4.png

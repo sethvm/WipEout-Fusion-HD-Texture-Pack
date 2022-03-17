@@ -1,1 +1,1 @@
-![WipEout Fusion - Homepage](https://user-images.githubusercontent.com/62298614/119145563-0f2ebe80-ba4a-11eb-886d-17f56c57a40a.png)
+![WipEout Fusion - Homepage](https://user-images.githubusercontent.com/62298614/158905634-beb3b82d-780e-4c16-9884-fc3e3dd7f0fe.png)

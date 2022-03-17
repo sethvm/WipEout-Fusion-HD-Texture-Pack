@@ -6,29 +6,22 @@ Homepage: https://github.com/NR74W/WipEout-Fusion-HD-Texture-Pack
 
 # Instructions #
 
-1. Download the latest PCSX2 build with texture replacement support from the PCSX2 pull request #4199 (https://github.com/PCSX2/pcsx2/pull/4199).
-(Reuploaded on MEGA, the artifact on GitHub has long since expired): https://mega.nz/file/kNAH1Aqa#_NARXN2TKHrtHSD6vRXoCV0TPNX7FgQEbYx0arsqTlA
-2. After setting up PCSX2, enable "Texture Manipulation" and "Replace Textures" in the GSdx settings.
-3. Download the Texture Pack repository as .zip then extract it to the PCSX2 folder.
-4. Launch WipEout Fusion (Europe or USA). The textures will be replaced.
+1. Download the Texture Pack repository as .zip then extract it to the PCSX2 folder.
+2. Rename the "serial" folder to "SCES-50005" (Europe) / "SLUS-20462" (USA).
+3. Enable "Load Textures" and "Precache Textures" in Graphics Settings > Advanced (Qt) / Graphics Settings > Debug (Wx). "Async Texture Loading" is enabled by default.
+4. Launch WipEout Fusion. The textures will be replaced.
 
 
 # Notes #
 
-- The OpenGL GSdx plugin tends to make the emulator crash, only Direct3D 11 should be used.
-  Texture filtering "Bilinear (PS2)" must be used, otherwise the FMVs / animated billboards and some textures won't be rendered correctly.
-- The texture replacement implementation was work-in-progress and is now abandoned, only uncompressed DDS (B8G8R8A8 and R8G8B8A8 formats) are supported.
-- The hash generation is imperfect, there are some hash collisions.
-  Some textures could not be replaced: the Piranha and Van-Uber logos shares the same hash (FEA8A821); Speed-Up pad and Weapon grid (BB909015); ship shadows (most ships have the same hash: 0D968558).
-- The 64bit build of PCSX2 in this PR was non-functional, only the 32bit build worked.
-- CRC for Europe version = 90DB90F1; USA version = 4C2D1E6D.
+- The texture pack is only compatible with PCSX2 v1.7.2389 and later.
+- Texture filtering "Bilinear (PS2)" must be used, otherwise the FMVs / animated billboards and some textures won't be rendered correctly.
 - All billboards with real-world advertisements have been replaced with the logos of Studio Liverpool, WipEout Fusion, PlayStation 2 and Sony.
 - AI upscaling was used for most of the in-game textures.
 - The water surface appears very pixelated in Mandrashee and Alca Vexus, it's a compressed video in .ipf format instead of a texture. Unfortunately it cannot be replaced.
-- The spinning disc icon / title screen logo / artworks cannot be replaced or dumped.
+- The title screen logo / artworks cannot be replaced or dumped.
 - For some reason, in-menu the pilot models have weird lines, it was almost impossible to notice it on a real PlayStation 2 but is very obvious when using a high internal resolution on PCSX2.
   This is not an emulation issue, the reason is that these textures had semi-transparent edges and therefore were not seamless... The pilot textures were fixed in this pack.
-- Press F10 to toggle Texture Manipulation ON / OFF; F11 to toggle Texture Replacement / Dump.
 
 
 # Enhancements #
@@ -36,7 +29,7 @@ Homepage: https://github.com/NR74W/WipEout-Fusion-HD-Texture-Pack
 - The USA version of the game is recommended, for 60Hz/60FPS output. Also, the de-interlacing cheat code and widescreen hack are only available for this version.
 - The de-interlacing cheat file for WipEout Fusion greatly enhances the gameplay experience, and can be found at the PCSX2 forums: https://forums.pcsx2.net/Thread-No-interlacing-codes
   The content of the .pnach file is: patch=1,EE,20216A64,word,00000000
-  When using this code, the interlacing mode in the GSdx settings should be disabled.
+  When using this code, the interlacing mode in the Graphics Settings should be disabled.
 - Enabling the widescreen hack will make the 3D models displayed in the front-end rendered in 16:9.
   Even though the game supports widescreen natively, it's only used in-game, the main menu is still in 4:3.
   Only the Track Map in the menu is not rendered correctly.
@@ -50,9 +43,9 @@ Homepage: https://github.com/NR74W/WipEout-Fusion-HD-Texture-Pack
 WipEout Fusion does not need any particular settings and runs without issues, for information only.
 - USA version (SLUS-20462).
 - Default emulation settings (Safe).
-- GS Window: 16:9; V-Sync disabled (reduces input lag).
-- Speedhacks (Optional): Enable Fast CDVD (no known side-effect for this game); if emulation speed is too slow, use: MTVU or Instant VU1 (Important: these hacks can cause issues).
-- GSdx: Direct3D 11; Interlacing = None; Texture Filtering = Bilinear (PS2); Enable Texture Manipulation + Replace Textures; Internal Resolution = 6x Native (~2160p 4K) or 8x; Anisotropic Filtering = 16x.
+- GS Window: 16:9.
+- Speedhacks (Optional): Enable Fast CDVD.
+- Graphics Settings: Direct3D 11 or Vulkan; Interlacing = None; Texture Filtering = Bilinear (PS2); Enable Load Textures + Precache Textures; Internal Resolution = 6x Native (~2160p 4K) or 8x; Anisotropic Filtering = 16x.
 - Game Settings: Enable Cheats (for the de-interlacing code); Enable Widescreen Patches.
 
 
@@ -61,6 +54,7 @@ WipEout Fusion does not need any particular settings and runs without issues, fo
 - The official WipEout Fusion website (closed in 2004) has been preserved by a former developer from Good Technology, it uses Ruffle for Flash Player emulation and can be accessed at: https://wipeoutfusion.codesculptor.com
 - The Earth seen from Katmoda 12 (located on the Moon) is "The Blue Marble", a photograph of the Earth taken on 1972-12-07 by the crew of the Apollo 17 spacecraft.
   For some reason the original texture was inverted in-game. The original photo (with some slight edits) was used to replace the game's texture.
+- The track Katmoda 12 is slightly different between the European and American versions.
 - The original name of WipEout Fusion was WipEout X (a WipEout Fusion billboard is still named "WOXLOGO2.MEM" in the game files).
   Years later, the project codename of WipEout Pulse was named WipEout X2 (or X2), it may or may not be a coincidence.
 - The name of the track Florion Height was originally Florian Height, a tribute to Florian Schneider, the co-founder of Kraftwerk.
@@ -79,8 +73,8 @@ WipEout Fusion does not need any particular settings and runs without issues, fo
   For some reason, the shadow of the Piranha ship (Rapier and Phantom levels) doesn't match the actual shape of the model in-game and the LOD texture...
 - The ship seen on the WipEout Fusion billboard looks almost identical to the one on the cover of WipEout 1.
 - There are at least 4 known different F9000 logos: the first one has the text "F9000 Anti-Gravity Racing" and was most probably a prototype, only seen on some artworks in the press kits; the second has 3 bars and the year "2152AD", used on the cover art and manual; the last two have 4 bars and a different year each: "2025AD" and "2044AD". The game used the third one, and the official website used the last one for its intro. 2044 seems to be the correct date, as it was the same year when the F3600 Anti-Gravity Race Commission was founded.
-- It is possible to play without the HUD, kind of. The GSwindow Zoom and Offset shortcuts of PCSX2 can achieve this effect.
-  All shortcuts can be found in the "PCSX2_keys.ini.default" file.
+- The smallest font texture has capital letters, never seen in-game. Only the lowercase characters are used.
+- Interestingly, one of the FEISAR ship textures has a placeholder text "Mirrored logo goes here"; same for the Tigron ship: "Spare logo space. I will use it probably". They can't be seen on the ships, the space was left unused.
 - The 8th track, Devilia, is the only point-to-point track ever made in the WipEout series, and only two ships can compete at the same time (even though there are 8 grids).
   It can only be accessed by playing one of the Pilot Challenges in AG League mode, and once they are completed it's not possible to play again on this track.
   The "Features Unlocked" cheat can be used on a new profile to play on this track. Although it is not available in track selection, its description is quite cryptic to say the least:
@@ -114,9 +108,9 @@ X - T - O - T - O | Features Unlocked (Unlock All + 50000000 Credits)
 
 # Special Thanks #
 
-Topaz-Reality - For the Texture Replacement feature in PCSX2.
+stenzek - For the Texture Replacement feature in PCSX2.
 Everyone who contributed to PCSX2 - For PCSX2.
-Rob Foxx (infoxicated) - For sharing the official Fusion font.
+Rob Foxx (infoxicated) - For sharing the official Fusion font on WipEoutZone in 2005.
 NASA and Apollo 17 crew members - For the Earth photo.
 Kim2091, Alsa, LyonHrt, Torrentguy - For the ESRGAN models used to enhance in-game textures.
 Studio Liverpool (formerly Psygnosis) - For creating this amazing game series in the first place. Thanks for everything.
